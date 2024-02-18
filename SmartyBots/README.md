@@ -6,6 +6,25 @@ SmartyBots is an open-source toolkit designed for Educational AI, aimed at lever
 
 Large Language Models (LLMs) like the GPT Series (OpenAI), LLaMA (Facebook AI), Gemini (Google), and others are a way of interacting with computers using natural language instead of traditional programming languages like C++, SQL or python.
 
+### Top 11 Large Language Models (LLMs) for Creating Chatbots
+
+LLMs are transforming the way we interact with computers by allowing us to use natural language. Here's a list of top LLMs suitable for creating chatbots:
+
+1. **GPT-3** by OpenAI - Known for its versatility and wide-ranging capabilities in natural language understanding and generation.
+2. **GPT-4** by OpenAI - The latest iteration with more advanced features, understanding, and contextual capabilities.
+3. **LLaMA** by Facebook AI - Offers a variety of models with different sizes to balance performance and resource usage.
+4. **Gemini** by Google - Google's entry into the LLM space, focusing on conversation and contextual understanding.
+5. **BERT** by Google - Focuses on deep learning for understanding the context of words in search queries.
+6. **RoBERTa** by Facebook AI - A robustly optimized BERT approach that has been pre-trained on a larger dataset.
+7. **T5** by Google - Text-to-Text Transfer Transformer that converts all NLP problems into a text-to-text format.
+8. **XLNet** by Google/CMU - Outperforms BERT on several benchmarks due to its permutation-based training.
+9. **Megatron-Turing NLG** by NVIDIA and Microsoft - One of the largest, most powerful transformer-based language models.
+10. **Jurassic-1** by AI21 Labs - Designed to create a more sophisticated understanding of context.
+11. **DeBERTa** by Microsoft - Enhances the BERT and RoBERTa models with disentangled attention mechanism.
+
+These models are at the forefront of AI chatbot development, offering nuanced and sophisticated interaction capabilities.
+
+
 ### How SmartyBots Helps the use of LLMs:
 
 The SmartyBots toolkit allows users to use any LLM to do things like generate code, search databases, and organize data using natural language and through guided conversations with the bots.
