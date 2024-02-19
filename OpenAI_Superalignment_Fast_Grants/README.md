@@ -1,96 +1,65 @@
-# SmartyBots - An open-source toolkit for Educational AI
+# Enhancing Trust in Superintelligent AI for Education
 
-SmartyBots is an open-source toolkit designed for Educational AI, aimed at leveraging Large Language Models (LLMs) such as the GPT Series by OpenAI, LLaMA by Facebook AI, and others, to interact with computers using natural language. This toolkit enables users to generate code, search databases, and organize data through natural language interactions and guided conversations with bots.
+## Executive Summary
+Northeastern University's AI for Education initiative, a key project under the auspices of the Provost's Office, is leading the charge in integrating AI within educational paradigms, focusing on personalized learning experiences. This initiative recognizes the pivotal role of trust in the acceptance and effectiveness of AI technologies in education. As part of Northeastern's broader efforts, which span its extensive network of 13 campuses across the U.S., U.K., and Canada, our research indicates that trust in AI is the foremost concern among educators and students alike. Addressing this, our project prioritizes the development of interpretability models and strategies to ensure AI technologies are transparent, reliable, and ethically integrated into educational settings.
 
-## LLMs
+## Trust through Computational Skepticism
+Our approach, embedded in the philosophy of "trust but verify," targets the inherently opaque nature of AI models. We introduce Computational Skepticism as a framework to automate the validation of AI trustworthiness, fostering a culture where questioning the reliability of AI becomes a standard part of educational AI development. This strategy not only aims to enhance transparency but also to build a foundational trust in AI across Northeastern's diverse educational landscape.
 
-Large Language Models (LLMs) like the GPT Series (OpenAI), LLaMA (Facebook AI), Gemini (Google), and others are a way of interacting with computers using natural language instead of traditional programming languages like C++, SQL or python.
+## Research Focus
+Our research is threefold:
+- **Data Analysis:** Assessing data quality, bias, and predictive value is essential. Our methods include statistical analysis, bias detection, and the creation of "fake" data to test models' integrity.
+- **Model Interpretability:** We will develop systems to clarify how AI models reach conclusions. Techniques like sensitivity analysis, feature importance methods, Shapley values, attention visualization, counterfactual explanations, language-based explanations, and embedding space analysis offer insights into a model's reasoning, improving user understanding and trust.
+- **Faculty Involvement in the Development of Educational AI:** Most faculty are not AI engineers and need technical support to enhance and refine AI until it addresses their concerns and is customized to their needs. Northeastern is in a singular position to work on a diverse range of applications of AI to Education.
 
-### Top 11 Large Language Models (LLMs) for Creating Chatbots
+## Enhancing Interpretability and Acceptance
+Key initiatives include:
+- Demystifying AI Operations: Making AI processes accessible to the academic community enhances understanding and acceptance.
+- Educational Support: Training programs for students and faculty aim to build trust in AI technologies.
+- Development of Interpretability Tools: Tools that clarify AI decision-making processes promote an informed and ethical AI use in education.
+- Feedback for students and faculty on building trustworthy educational AI.
+- Assisting students and faculty on building open-source trustworthy educational AI software and tools.
 
-LLMs are transforming the way we interact with computers by allowing us to use natural language. Here's a list of top LLMs suitable for creating chatbots:
+## Objectives
+Goals include mentoring by recent graduates, active participation of graduate students and faculty in interpretability model development, and advancing research into tools that enhance AI transparency and trust. It is critical the faculty get engineering help and are involved in the process of building trustworthy AI support.
 
-1. **GPT-3** by OpenAI - Known for its versatility and wide-ranging capabilities in natural language understanding and generation.
-2. **GPT-4** by OpenAI - The latest iteration with more advanced features, understanding, and contextual capabilities.
-3. **LLaMA** by Facebook AI - Offers a variety of models with different sizes to balance performance and resource usage.
-4. **Gemini** by Google - Google's entry into the LLM space, focusing on conversation and contextual understanding.
-5. **BERT** by Google - Focuses on deep learning for understanding the context of words in search queries.
-6. **RoBERTa** by Facebook AI - A robustly optimized BERT approach that has been pre-trained on a larger dataset.
-7. **T5** by Google - Text-to-Text Transfer Transformer that converts all NLP problems into a text-to-text format.
-8. **XLNet** by Google/CMU - Outperforms BERT on several benchmarks due to its permutation-based training.
-9. **Megatron-Turing NLG** by NVIDIA and Microsoft - One of the largest, most powerful transformer-based language models.
-10. **Jurassic-1** by AI21 Labs - Designed to create a more sophisticated understanding of context.
-11. **DeBERTa** by Microsoft - Enhances the BERT and RoBERTa models with disentangled attention mechanism.
+## Need for Funding
+Funding is vital for integrating interpretability models into educational AI applications, supporting faculty and students, and promoting ethical AI use.
 
-These models are at the forefront of AI chatbot development, offering nuanced and sophisticated interaction capabilities.
+## Impact and Benefits
+This initiative aims to set new standards for transparent AI in education, empowering educators and students to confidently utilize AI, positioning Northeastern University as a leader in the responsible advancement of AI in education.
+
+## Conclusion
+Focusing on interpretability and acceptance, our initiative addresses the crucial gap in AI technology integration in education, ensuring ethical, informed, and effective AI use for enhancing learning outcomes.
+
+# Budget Proposal for AI for Education Superalignment Initiative
+
+## Personnel Costs
+- **Graduate Students (2 positions):**
+  - Annual Salary per Graduate: $75,000
+  - Total for 2 Graduates: $150,000
+
+## Operational Costs
+- **OpenAI Credits for Research and Development:**
+  - Total OpenAI Credits: $75,000
+
+## Benefits Overhead
+- **Northeastern Benefits Overhead (33%):**
+  - Calculated on the total personnel costs of $150,000, which is $49,500
+
+## Volunteer Contributions
+- **Faculty Supervisors:**
+  - Faculty supervisors continue to volunteer their time and expertise, providing guidance and oversight without direct financial compensation.
+
+## Total Budget Request
+- **Total Personnel Costs: $150,000**
+- **Total Operational Costs: $75,000**
+- **Total Benefits Overhead: $49,500**
+- **Grand Total: $274,500**
+
+This budget supports the engagement of two graduate students and operational activities facilitated through OpenAI credits, with comprehensive benefits overhead, maintaining the initiative’s focus on leveraging AI in education effectively.
 
 
-### How SmartyBots Helps the use of LLMs:
+## Related Research
 
-The SmartyBots toolkit allows users to use any LLM to do things like generate code, search databases, and organize data using natural language and through guided conversations with the bots.
-
-## Prompt Engineering
-
-Prompt engineering is both an art and a science of crafting language inputs (prompts) that elicit the best, most accurate, or most useful responses from Large Language Models (LLMs).
-
-### How SmartyBots Helps Prompt Engineering:
-
-SmartyBots provides resources and chatbots for educators to learn and apply prompt engineering effectively. Through examples, tailored bots, and dedicated learning materials, users can craft prompts to elicit desired responses from LLMs, enhancing educational content.
-
-## Bots and the “Bot Garden”
-
-A bot or an "agent" refers to a program or entity that acts autonomously or semi-autonomously to perform tasks or achieve goals set by its design such as creating a quiz or providing feedback on writing.
-
-### How SmartyBots Helps Create Task-Specific Bots:
-
-SmartyBots offers a vast collection of task-specific bots designed for educational purposes. Educators can mix and match bots to create customized educational mentors. For instance, a generic quiz bot can be transformed into a subject-specific tutor, such as for math or art, guided by faculty expertise.
-
-## AI Task Routing
-
-"Router bots" or "orchestration layers" in AI systems serve to control the flow of tasks within an application, deciding which task-specific bot or service to hand a task to based on the context or the content of the request. If the context is unclear the bot is instructed to ask clarifying questions.
-
-### How SmartyBots Helps Task Routing:
-
-Within the 'bot garden', SmartyBots includes router bots that act as an orchestration layer. These bots intelligently direct queries to the appropriate task-specific bot, ensuring students' inquiries are handled by the best-suited educational bot.
-
-## Vector Databases - External Data for LLMs
-
-Vector databases are specialized systems designed to store, manage, and index high-dimensional unstructured data efficiently. They enable fast and efficient similarity searches and are crucial for LLMs and generative AI applications.
-
-### How SmartyBots Helps the use of Vector Databases:
-
-SmartyBots provides tools for the secure encryption and storage of unstructured data. This enhances LLMs' performance by facilitating fast and efficient similarity searches without compromising data privacy.
-
-## Langchain, and Langflow
-
-LangChain is a framework designed to facilitate the development of applications powered by LLMs. It includes products like LangSmith for improving the quality of LLM-powered apps and LangServe for deploying APIs.
-
-LangFlow is a GUI for LangChain that facilitates easy prototyping of LangChain flows. It is Python-native and emphasizes ease of use, with a focus on no-code AI ecosystem integration.
-
-### How SmartyBots Helps Langchain, and Langflow:
-
-SmartyBots integrates with LangChain and LangFlow, offering educators the ability to develop context-aware and reasoning applications powered by LLMs.
-
-## No Code Chatbot Bot Creation
-
-Chatbots in the Smartpants ecosystem allow educators to create other chatbots by having a conversation with a chatbot.
-
-### How SmartyBots Helps No Code Chatbot Bot Creation:
-
-SmartyBots enables educators to create specialized chatbots through conversation, specifying functions, knowledge base, and interaction style without coding.
-
-## Fine-Tuning Custom LLMs
-
-Fine-tuning involves adapting a pre-trained LLM to enhance its performance for specific tasks by training it on a targeted dataset.
-
-### How SmartyBots Helps Fine-Tuning Custom LLMs:
-
-SmartyBots provides tools and code to extend existing LLMs with private data and deploy them within its ecosystem.
-
-## Cloud and Interface Agnosticism
-
-SmartyBots interfaces with major cloud platforms and services like Slack, Discord, Teams, and Canvas.
-
-## Summary
-
-SmartyBots democratizes the use of AI in education, enhancing learning experiences through personalized support and innovative teaching methods.
+SmartyB
