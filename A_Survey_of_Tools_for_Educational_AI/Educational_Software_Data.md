@@ -437,4 +437,18 @@ Each tool comes with its own set of features, pros, and cons, so selecting the r
 
 For more information on network monitoring software and to help you choose the right tool for your needs, you can refer to the detailed comparison and reviews on [TechRepublic](https://www.techrepublic.com).
 
+## Ontologies
+
+**Skills Ontologies**
+
+- **ESCO (European Skills, Competences, Qualifications and Occupations):** ESCO is a multilingual classification of European skills, competences, qualifications, and occupations. It provides a standardized terminology for skills and competences relevant across the EU and is used for various purposes, including education and training, career guidance, and labor market matching.
+
+- **O*NET (Occupational Information Network):** ONET is a comprehensive database of worker attributes and job characteristics developed by the U.S. Department of Labor. It includes information on skills, abilities, knowledge, tasks, and activities associated with thousands of occupations. ONET facilitates career exploration and job analysis by offering detailed occupational information.
+
+- **Skills Framework for the Information Age (SFIA):** SFIA provides a globally recognized framework for IT skills. It outlines professional skills and competencies in information and communication technologies, software engineering, and digital transformation. SFIA is widely used for planning workforce development, recruiting, managing performance, and professional development in the IT sector.
+
+- **Competency and Skills System (CaSS):** CaSS is an open-source framework that enables the documentation, tracking, and sharing of competencies, skills, and achievements. It supports interoperability between different systems and can be used in education, workforce development, and credentialing to map and understand skills and competencies.
+
+- **Australian Core Skills Framework (ACSF):** The ACSF provides a detailed outline of core skills in literacy and numeracy across various levels of performance, from basic to advanced. It is used primarily in the Australian vocational education and training sector to assess and develop language, literacy, and numeracy skills.
+
 
