@@ -131,7 +131,7 @@ These tools represent the forefront of leveraging AI to create engaging, interac
 
 Vector databases are specialized systems designed to store, manage, and index high-dimensional unstructured data efficiently. They enable fast and efficient similarity searches and are crucial for LLMs and generative AI applications.
 
-# Top Vector Databases for LLMs and Generative AI Applications
+## Top Vector Databases for LLMs and Generative AI Applications
 
 Vector databases play a pivotal role in enhancing the performance of Large Language Models (LLMs) and generative AI by facilitating efficient similarity searches. Below are some of the top vector databases that are well-suited for these applications:
 
@@ -331,7 +331,7 @@ Chatbots in the Smartpants ecosystem allow educators to create other chatbots by
 
 Fine-tuning involves adapting a pre-trained LLM to enhance its performance for specific tasks by training it on a targeted dataset.
 
-# Top Software and Tools for Fine-Tuning Custom LLMs
+## Top Software and Tools for Fine-Tuning Custom LLMs
 
 Fine-tuning LLMs is essential for tailoring pre-trained models to specific educational tasks, improving their performance and making them more relevant to the educational content. Below are some key tools and techniques identified from various sources that are instrumental in the fine-tuning process:
 
