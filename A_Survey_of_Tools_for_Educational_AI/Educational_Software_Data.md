@@ -1,33 +1,35 @@
-# SmartyBots - An open-source toolkit for Educational AI
-
-SmartyBots is an open-source toolkit designed for Educational AI, aimed at leveraging Large Language Models (LLMs) such as the GPT Series by OpenAI, LLaMA by Facebook AI, and others, to interact with computers using natural language. This toolkit enables users to generate code, search databases, and organize data through natural language interactions and guided conversations with bots.
+# Educational Software (An Awesome List)
 
 ## LLMs
 
 Large Language Models (LLMs) like the GPT Series (OpenAI), LLaMA (Facebook AI), Gemini (Google), and others are a way of interacting with computers using natural language instead of traditional programming languages like C++, SQL or python.
 
-### Top 11 Large Language Models (LLMs) for Creating Chatbots
+LLMs are revolutionizing our interaction with computers by facilitating natural language communication. Here's a consolidated list of some top LLMs, including their unique strengths, particularly suited for developing educational software:
 
-LLMs are transforming the way we interact with computers by allowing us to use natural language. Here's a list of top LLMs suitable for creating chatbots:
+1. **GPT-3 by OpenAI**: Renowned for its broad natural language understanding and generation capabilities, making it highly versatile for chatbot development.
+2. **GPT-4 by OpenAI**: This iteration introduces advanced features and improved contextual understanding over its predecessor.
+3. **LLaMA by Facebook AI**: Provides multiple model sizes, allowing developers to find the right balance between performance and resource usage for chatbot applications.
+4. **Gemini by Google**: Google's contribution to LLMs, focusing on enhancing conversation and contextual comprehension.
+5. **BERT by Google**: Specializes in understanding the context of words in search queries through deep learning techniques.
+6. **RoBERTa by Facebook AI**: An optimized version of BERT, pre-trained on an even larger dataset for robust performance.
+7. **T5 by Google**: The Text-to-Text Transfer Transformer reformulates all NLP tasks into a unified text-to-text problem format.
+8. **XLNet by Google/CMU**: Surpasses BERT on various benchmarks with its permutation-based training approach.
+9. **Megatron-Turing NLG by NVIDIA and Microsoft**: Stands out as one of the largest transformer-based language models available, offering significant power for complex chatbot tasks.
+10. **Jurassic-1 by AI21 Labs**: Aimed at developing a deeper contextual understanding, thereby enhancing chatbot interactions.
+11. **DeBERTa by Microsoft**: Improves upon BERT and RoBERTa models with a disentangled attention mechanism for more nuanced language understanding.
 
-1. **GPT-3** by OpenAI - Known for its versatility and wide-ranging capabilities in natural language understanding and generation.
-2. **GPT-4** by OpenAI - The latest iteration with more advanced features, understanding, and contextual capabilities.
-3. **LLaMA** by Facebook AI - Offers a variety of models with different sizes to balance performance and resource usage.
-4. **Gemini** by Google - Google's entry into the LLM space, focusing on conversation and contextual understanding.
-5. **BERT** by Google - Focuses on deep learning for understanding the context of words in search queries.
-6. **RoBERTa** by Facebook AI - A robustly optimized BERT approach that has been pre-trained on a larger dataset.
-7. **T5** by Google - Text-to-Text Transfer Transformer that converts all NLP problems into a text-to-text format.
-8. **XLNet** by Google/CMU - Outperforms BERT on several benchmarks due to its permutation-based training.
-9. **Megatron-Turing NLG** by NVIDIA and Microsoft - One of the largest, most powerful transformer-based language models.
-10. **Jurassic-1** by AI21 Labs - Designed to create a more sophisticated understanding of context.
-11. **DeBERTa** by Microsoft - Enhances the BERT and RoBERTa models with disentangled attention mechanism.
+Additionally, the chatbot development landscape is further enriched by models such as:
 
-These models are at the forefront of AI chatbot development, offering nuanced and sophisticated interaction capabilities.
+- **ChatGPT** by OpenAI: Specifically designed for engaging in natural language conversations, often updated with new capabilities like plugins for broader use cases.
+- **LLaMA 2** by Meta AI: Notable for its code understanding and completion, suitable for both research and commercial use, especially for chatbot development.
+- **FALCON** by the Technology Innovation Institute: Offers high-quality model variants for self-hosting, ideal when computational resources are not a constraint.
+- **Mistral 7B** by Mistral AI: Excels in benchmarks against other models, offering a balance between size and performance for efficient chatbot deployment.
+- **BLOOM** by BigScience: A multilingual LLM generating text in numerous natural and programming languages, aimed at transparent and interpretable model development.
+- **LaMDA** by Google: Focuses on generating natural and engaging user conversations, trained on dialogue to grasp conversational nuances.
+
+These models are paving the way for AI-driven chatbot development, each offering distinctive features that cater to nuanced and sophisticated interaction capabilities.
 
 
-### How SmartyBots Helps the use of LLMs:
-
-The SmartyBots toolkit allows users to use any LLM to do things like generate code, search databases, and organize data using natural language and through guided conversations with the bots.
 
 ## Prompt Engineering
 
