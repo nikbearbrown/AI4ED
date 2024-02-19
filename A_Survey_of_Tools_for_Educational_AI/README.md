@@ -10,6 +10,13 @@ The AI for Education Project (AI4ED) at Northeastern University exemplifies the 
 
 The AI for Education Project (AI4ED) warmly invites educators to contribute to work in educational AI by sharing your valuable insights, experiences, and resources. If you've encountered or utilized software tools that have transformed your teaching and learning environments, or if you have thoughts on emerging technologies in education, we'd love to hear from you. Please consider sending links and your reflections to ai@skunks.ai or uploading directly to our collaborative platform at [https://github.com/nikbearbrown/AI4ED/tree/main/A_Survey_of_Tools_for_Educational_AI](https://github.com/nikbearbrown/AI4ED/tree/main/A_Survey_of_Tools_for_Educational_AI). Your contributions are vital in shaping an inclusive, innovative, and effective educational future. Together, let's build a comprehensive resource that empowers educators around the globe to harness the potential of AI in transforming educational practices.
 
+## Educational Software, Tools, and Data Sets
+
+The educational software, tools, and data sets to be evaluated are here 
+
+[https://github.com/nikbearbrown/AI4ED/blob/main/A_Survey_of_Tools_for_Educational_AI/Educational_Software_Data.md](https://github.com/nikbearbrown/AI4ED/blob/main/A_Survey_of_Tools_for_Educational_AI/Educational_Software_Data.md)  
+
+
 ## LLMs
 
 Large Language Models (LLMs) like the GPT series (OpenAI), LLaMA (Facebook AI), Gemini (Google), and others enable interaction with computers using natural language, moving beyond traditional programming languages such as C++, SQL, or Python.
