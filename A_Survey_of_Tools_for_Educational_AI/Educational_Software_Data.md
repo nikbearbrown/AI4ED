@@ -1,4 +1,4 @@
-# Educational Software (An Awesome List)
+# Educational Software, Tools and Data sets (An Awesome List)
 
 ## LLMs
 
