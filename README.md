@@ -14,40 +14,6 @@ The **AI for Education Project (AI4ED)** is spearheading the integration of arti
 
 AI4ED aims to foster an educational future where AI and learning evolve in tandem, offering transformative experiences for all participants.
 
-## How Generative AI Can Help with Teaching
-
-1. **Interactive Lesson Plans:**
-   Use ChatGPT to create interactive lesson plans with embedded quizzes, discussion prompts, and multimedia content to keep students engaged and facilitate active learning.
-
-2. **Personalized Learning Paths:**
-   Leverage ChatGPT to analyze student performance data and recommend personalized learning paths tailored to individual strengths, weaknesses, and learning styles.
-
-3. **Real-Time Language Translation in Live Classes:**
-   Integrate ChatGPT's translation capabilities into live classes to provide real-time language translation for multilingual students, ensuring inclusivity and accessibility.
-
-4. **Automated Grading and Assessment:**
-   Utilize ChatGPT to automate grading and assessment tasks for assignments, quizzes, and exams, freeing up valuable instructor time and providing timely feedback to students.
-
-5. **Simulated Experiential Learning:**
-   Create simulated environments using ChatGPT to facilitate experiential learning opportunities in fields such as business management, healthcare, or engineering.
-
-6. **Virtual Lab Demonstrations:**
-   Use ChatGPT to simulate laboratory experiments and demonstrations, allowing students to explore scientific concepts and principles in a virtual environment.
-
-7. **Gamified Learning Activities:**
-   Develop gamified learning activities with ChatGPT to motivate students and reinforce key concepts through interactive games, quizzes, and simulations.
-
-8. **AI-Powered Mentorship Programs:**
-   Implement AI-powered mentorship programs where ChatGPT serves as a virtual mentor, providing guidance, advice, and support to students throughout their academic journey.
-
-9. **Data-Driven Teaching Strategies:**
-   Analyze student data using ChatGPT to identify trends, patterns, and areas for improvement, informing data-driven teaching strategies and instructional design decisions.
-
-10. **Collaborative Project Management:**
-    Use ChatGPT to facilitate collaborative project management by assigning tasks, scheduling meetings, and coordinating communication among student teams.
-
-11. **Continual Learning and Professional Development:**
-    Offer continual learning and professional development opportunities for educators by leveraging ChatGPT to curate personalized learning resources, deliver micro-learning modules, and facilitate peer-to-peer knowledge sharing.
 
  ## AI4ED Menu: How Gen AI Can Help with Teaching
 
@@ -60,8 +26,8 @@ AI4ED aims to foster an educational future where AI and learning evolve in tande
 7. **Student Support Chatbot**: Develop a chatbot to assist students with general inquiries, course information, and academic resources, creating a more accessible and responsive support system.
 8. **Idea Generation Workshops**: Develop prompt engineering skills to elevate and organize brainstorming sessions with ChatGPT to foster creativity, generate research ideas, and explore new perspectives within your department.
 9. **Language Learning Companion**: Integrate ChatGPT into language courses to provide students with conversational practice, grammar explanations, and cultural insights.
-10. **Text to Video**: Enhance student learning by exploring text to video feature. Create short documentaries on any topic that can then be used for discussion and analysis. Develop prompt engineering skills to create advanced documentaries.
-11. **Dall-E and Image Creating**: Develop your own custom-made images for your PowerPoint presentations, using advanced prompt engineering skills. Promote visual learning.
+10. **Text to Video**: Enhance student learning by exploring text-to-video feature in tools like OpenAI's Sora [https://openai.com/sora](https://openai.com/sora). Create short documentaries on any topic that can then be used for discussion and analysis. Develop prompt engineering skills to create advanced documentaries.
+11. **Midjourney, Dall-E, and Bing Image Creating**: Develop your own custom-made images for your PowerPoint presentations, using advanced prompt engineering skills. Promote visual learning. You see examples of Midjourney, Dall-E, and Bing images here [https://www.instagram.com/zebonastic.ai/](https://www.instagram.com/zebonastic.ai/). 
 12. **Chatbot Application Development Using Zoom Lecture Transcriptions**: Utilize ChatGPT to develop applications that automate administrative tasks and provide personalized support to students by leveraging Zoom lecture transcriptions.
 13. **Syllabus-Learning Outcome Alignment**: Engage ChatGPT in aligning course syllabi with learning outcomes, identifying discrepancies, and suggesting improvements to ensure course content meets educational objectives.
 14. **Real-time Student Assessment and Support**: Implement ChatGPT for developing pre and post-class quizzes, offering real-time assessment, and providing support tailored to individual student needs during courses.
@@ -73,6 +39,9 @@ AI4ED aims to foster an educational future where AI and learning evolve in tande
 20. **AI-Enhanced Academic Advising**: Leverage ChatGPT for academic advising, providing students with immediate, accurate information on course selection, degree requirements, and academic planning.
 21. **AI-Powered Research Support**: Utilize ChatGPT to assist in research tasks such as literature review, formulation of research questions, and methodology guidance, enhancing research efficiency and output.
 22. **Multilingual Tutoring and Language Support**: Offer personalized language tutoring and support using ChatGPT, helping international students improve language proficiency and academic performance.
+23. **"Semesterization"**: Utilize AI to support the academic structuring process, dividing the academic year into semesters and modularizing courses into self-contained units that can be combined to meet educational requirements, facilitating a broader shift towards modularization in higher education.
+24. **Better Writing Chatbots**: Create chatbots leveraging advanced NLP and ML to read and provide feedback on student writing, facilitating peer critique presentations. Customize to various subjects and faculty perspectives, enhancing personalized feedback and critical thinking skills.
+25. **Personalized Co-op and Job Pathway System**: Develop a system using AI to curate personalized co-op and job pathways. Integrate skill ontologies with coursework to match individuals with job opportunities that align with their skills and learning outcomes.
    
 
     
