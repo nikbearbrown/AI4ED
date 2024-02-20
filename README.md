@@ -40,8 +40,7 @@ AI4ED aims to foster an educational future where AI and learning evolve in tande
 21. **AI-Powered Research Support**: Utilize ChatGPT to assist in research tasks such as literature review, formulation of research questions, and methodology guidance, enhancing research efficiency and output.
 22. **Multilingual Tutoring and Language Support**: Offer personalized language tutoring and support using ChatGPT, helping international students improve language proficiency and academic performance.
 23. **"Semesterization"**: Utilize AI to support the academic structuring process, dividing the academic year into semesters and modularizing courses into self-contained units that can be combined to meet educational requirements, facilitating a broader shift towards modularization in higher education.
-24. **Better Writing Chatbots**: Create chatbots leveraging advanced NLP and ML to read and provide feedback on student writing, facilitating peer critique presentations. Customize to various subjects and faculty perspectives, enhancing personalized feedback and critical thinking skills.
-25. **Personalized Co-op and Job Pathway System**: Develop a system using AI to curate personalized co-op and job pathways. Integrate skill ontologies with coursework to match individuals with job opportunities that align with their skills and learning outcomes.
+24. **Personalized Co-op and Job Pathway System**: Develop a system using AI to curate personalized co-op and job pathways. Integrate skill ontologies with coursework to match individuals with job opportunities that align with their skills and learning outcomes.
    
 
     
