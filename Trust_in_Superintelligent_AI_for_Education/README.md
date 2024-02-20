@@ -1,7 +1,4 @@
-## Enhancing Trust in LLMs: Algorithms for Comparing and Interpreting
-LLMs
-
-Megha Patel, Himanshi Motwani, Nik Bear Brown
+## Enhancing Trust in Generative AI: Algorithms for Comparing and Interpreting LLMs
 
 **Abstract:**
 
