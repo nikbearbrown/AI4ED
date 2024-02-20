@@ -16,6 +16,18 @@ The educational software, tools, and data sets to be evaluated are here
 
 [https://github.com/nikbearbrown/AI4ED/blob/main/A_Survey_of_Tools_for_Educational_AI/Educational_Software_Data.md](https://github.com/nikbearbrown/AI4ED/blob/main/A_Survey_of_Tools_for_Educational_AI/Educational_Software_Data.md)  
 
+## Table of Contents
+
+1. [LLMs](#llms)
+2. [Prompt Engineering](#prompt-engineering)
+3. [Bots and "Bot Gardens"](#bots-and-"bot-gardens")
+4. [Vector Databases - External Data for LLMs](#vector-databases---external-data-for-llms)
+5. [Langchain and Langflow](#langchain-and-langflow)
+6. [No Code Chatbot Bot Creation](#no-code-chatbot-bot-creation)
+7. [Fine-Tuning Custom LLMs](#fine-tuning-custom-llms)
+8. [Cloud Agnosticism and Cloud Performance](#cloud-agnosticism-and-cloud-performance)
+9. [Interface Agnosticism and Interface Performance](#interface-agnosticism-and-interface-performance)
+10. [The AI for Education Project (AI4ED)](#the-ai-for-education-project-ai4ed)
 
 ## LLMs
 
