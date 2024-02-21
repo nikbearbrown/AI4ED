@@ -33,3 +33,13 @@ The evaluation criteria are here [https://github.com/nikbearbrown/AI4ED/tree/mai
 ## The AI for Education Project (AI4ED)
 
 The AI for Education Project (AI4ED) at Northeastern University is pioneering the fusion of artificial intelligence with educational practices to revolutionize how teaching and learning are approached. This initiative is breaking new ground by developing open-source tools like Project SmartyBots, which leverages Large Language Models for educational purposes, and by promoting innovative methods such as prompt engineering and the creation of task-specific bots for personalized learning experiences. It also explores the use of vector databases for enhancing the performance of AI models and supports the creation of no-code chatbots, thus democratizing AI access for educators. Furthermore, the project emphasizes the importance of fine-tuning custom LLMs for educational settings and showcases practical applications of AI in teaching through examples like virtual office hours assistants, academic writing support, and lecture enhancement. By integrating AI into various aspects of education, from curriculum development to the creation of interactive learning tools, AI4ED aims to make education more accessible, efficient, and tailored to individual needs. The project's commitment to collaborative development and its focus on ethical AI use highlight its role in shaping a future where education and AI evolve together to offer transformative learning experiences.
+
+
+## Project Two - Contribution to Survey Papers Related to Educational AI
+
+**Drafts of Papers in Progress**
+
+* [Enhancing Trust in LLMs: Algorithms for Comparing and Interpreting LLMs](https://github.com/nikbearbrown/AI4ED/blob/main/Papers/Enhancing_Trust_in_LLMs__Algorithms_and_Visualization_for_Comparing_and_Interpreting_LLMs.md)     
+* [Evaluating Tools for AI in Education: A Structured Framework](https://github.com/nikbearbrown/AI4ED/blob/main/Papers/Evaluating_Tools_for_AI_in_Education__A_Structured_Framework.md)
+* [The AI4ED Framework for Building Educational AI Tools](https://github.com/nikbearbrown/AI4ED/blob/main/Papers/The_AI4ED_Framework_for_Building_Educational_AI_Tools.md)
+  
