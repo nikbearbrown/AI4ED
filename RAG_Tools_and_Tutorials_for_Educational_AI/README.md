@@ -44,5 +44,16 @@ These cloud services and frameworks offer a rich set of features that can suppor
 
 ## No Code Chatbot Tools
 
-Flowise is a low-code/no-code platform designed to facilitate the creation of customized LLM (Large Language Model) applications through a drag & drop interface. It aims to simplify the visualization and building process for LLM apps, making it accessible even to those without extensive coding knowledge. The tool supports various integrations, allowing users to extend and integrate their applications using APIs, SDKs, and an embedded chat widget. Flowise is open-source and platform-agnostic, meaning it can run in air-gapped environments with local LLMs, embeddings, and vector databases. This flexibility enables users to self-host on cloud platforms such as AWS, Azure, and GCP, among others. The platform has garnered a community of developers who appreciate its ability to quickly build and deploy LLM apps, offering a range of use cases from product catalogs to customer support systems
+Flowise is a low-code/no-code platform designed to facilitate the creation of customized LLM (Large Language Model) applications through a drag & drop interface. It aims to simplify the visualization and building process for LLM apps, making it accessible even to those without extensive coding knowledge. The tool supports various integrations, allowing users to extend and integrate their applications using APIs, SDKs, and an embedded chat widget. Flowise is open-source and platform-agnostic, meaning it can run in air-gapped environments with local LLMs, embeddings, and vector databases. This flexibility enables users to self-host on cloud platforms such as AWS, Azure, and GCP, among others. The platform has garnered a community of developers who appreciate its ability to quickly build and deploy LLM apps, offering a range of use cases from academic catalogs to student support systems.
+
+- **Flowise**: A drag & drop UI platform for building customized LLM flows, facilitating easy LLM app development. [Flowise on GitHub](https://github.com/FlowiseAI/Flowise)
+  
+- **Dify**: An open-source alternative to Assistants API and GPTs, Dify.AI serves as an LLM application development platform integrating Backend as a Service and LLMOps, including a built-in RAG engine. [Dify on GitHub](https://github.com/langgenius/dify)
+
+- **Langflow**: Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity. [Langflow on GitHub](https://github.com/logspace-ai/langflow)
+
+- 
+
+- 
+
 
