@@ -52,8 +52,7 @@ Flowise is a low-code/no-code platform designed to facilitate the creation of cu
 
 - **Langflow**: Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity. [Langflow on GitHub](https://github.com/logspace-ai/langflow)
 
-- 
 
-- 
+ 
 
 
