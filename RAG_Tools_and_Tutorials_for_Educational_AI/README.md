@@ -47,7 +47,6 @@ Google Cloud and Google Vertex AI join this suite with robust data ingest and ma
 Below is a list of the mentioned cloud services and links to their respective pages:
 
 - **Pinecone**: [Pinecone](https://www.pinecone.io/)
-- **Canopy**: [Canopy](https://www.canopy-ai.com/)
 - **OpenAI**: [OpenAI API](https://openai.com/api/)
 - **Anyscale**: [Anyscale](https://www.anyscale.com/)
 - **AWS Lambda**: [AWS Lambda](https://aws.amazon.com/lambda/)
