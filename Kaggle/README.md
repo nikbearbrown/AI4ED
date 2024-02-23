@@ -15,6 +15,7 @@ Here is a list of every Saturday from the start date until the competition ends:
 
 ## Gemma Competition
 
+[Google – AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma/?utm_medium=email&utm_source=gamma&utm_campaign=comp-gemma1) 
 
 Google recently launched Gemma, a new family of open LLMs built from the same research and technology used to create their Gemini models. In this competition, you’re challenged to demonstrate how to use Gemma to accomplish one or more data science oriented tasks.
 
