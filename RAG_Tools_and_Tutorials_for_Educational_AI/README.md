@@ -14,6 +14,7 @@ Retrieval-Augmented Generation (RAG) is a methodology used in building advanced 
    - [Existing Commonly Used Apps for Students](#existing-commonly-used-apps-for-students)
    - [Commonly Used LMS](#commonly-used-lms)
 6. [Other Useful Tools](#other-useful-tools)
+7. [DeepLearning.ai Generative AI Short Courses]
 
    
 ### How RAG Works
@@ -178,7 +179,7 @@ Retrieval-Augmented Generation (RAG) applications can be integrated into learnin
 
 Integration with Moodle and Canvas would typically use their respective APIs to interact with the system's data and user interface. The RAG application would process requests from users within the LMS, retrieve the necessary information or generate content as required, and provide that information back to the LMS for display to the user. This enhances the LMS's capability to deliver responsive and personalized educational experiences.
 
-# Other Useful Tools
+## Other Useful Tools
 
 **Image Creation and Video Tools**
 
@@ -194,5 +195,122 @@ Sure, adding Midjourney and Bing Image Creator to the list:
 
 These AI image creation tools demonstrate the breadth of possibilities in generating art, realistic images, and visual content through advanced machine learning and artificial intelligence technologies.
 
+Here's the cleaned and formatted list of courses:
 
+### DeepLearning.ai Generative AI Short Courses
+
+AI4ED highly recommends these courses for individuals interested in Retrieval Augmented Generation (RAG). DeepLearning.AI offers a series of short courses designed to elevate your generative AI expertise. These concise, impactful courses are crafted to provide you with the knowledge, tools, and concepts needed to advance your skills in a time-efficient manner. Currently, they are available at no cost for a limited period, making this an excellent opportunity for those keen on exploring RAG and other generative AI technologies.
+
+#### Beginners
+
+- **ChatGPT Prompt Engineering for Developers**
+  - Instructors: Isa Fulford, Andrew Ng
+  - Learn API access, LLM leverage, custom chatbot building, and prompt engineering best practices.
+  - Prerequisite: Basic Python
+
+- **Building Systems with the ChatGPT API**
+  - Instructors: Isa Fulford, Andrew Ng
+  - Level up in LLM usage, complex task breakdown, workflow automation, and multistage prompt chaining.
+  - Prerequisite: Basic Python
+
+- **LangChain for LLM Application Development**
+  - Instructor: Harrison Chase
+  - Use LangChain for new environments, with personal assistants and chatbots focus.
+  - Prerequisite: Basic Python
+
+- **LangChain: Chat with Your Data**
+  - Instructor: Harrison Chase
+  - Create a chatbot to interface with private data, utilizing LangChain loaders.
+  - Prerequisite: Basic Python
+
+- **Large Language Models with Semantic Search**
+  - Instructors: Jay Alammar, Luis Serrano
+  - Enhance search capabilities using LLMs and Cohere Rerank.
+  - Prerequisite: Basic Python
+
+- **Building Generative AI Applications with Gradio**
+  - Instructor: Apolinário Passos
+  - Develop and share ML applications, focusing on image generation and text summarization.
+  - Prerequisite: Basic Python
+
+- **LLMOps**
+  - Instructor: Erwin Huizenga
+  - Design and automate LLM tuning and deployment with a focus on question-answering applications.
+  - Prerequisite: Basic Python
+
+- **Build LLM Apps with LangChain.js**
+  - Instructor: Jacob Lee
+  - Explore LangChain.js for application building, emphasizing conversational retrieval chains.
+  - Prerequisite: Intermediate JavaScript
+
+- **Reinforcement Learning from Human Feedback**
+  - Instructor: Nikita Namjoshi
+  - Introduction to RLHF for LLM tuning and evaluation, using the Llama 2 model.
+  - Prerequisite: Intermediate Python
+
+- **Building and Evaluating Advanced RAG Applications**
+  - Instructors: Jerry Liu, Anupam Datta
+  - Focus on enhancing RAG techniques and mastering evaluation metrics for robust systems.
+  - Prerequisite: Basic Python
+
+- **Quality and Safety for LLM Applications**
+  - Instructor: Bernease Herman
+  - Evaluate safety and security of LLM applications against various risks.
+  - Prerequisite: Basic Python
+
+- **Vector Databases: from Embeddings to Applications**
+  - Instructor: Sebastian Witalec
+  - Design real-world applications using vector databases for efficient searches.
+  - Prerequisite: Basic Python, knowledge of data structures useful
+
+- **Pair Programming with a Large Language Model**
+  - Instructor: Laurence Moroney
+  - Utilize LLMs for code improvement, debugging, understanding, and documentation.
+  - Prerequisite: Basic Python
+
+- **Understanding and Applying Text Embeddings**
+  - Instructors: Nikita Namjoshi, Andrew Ng
+  - Accelerate development with text embeddings for clustering, classification, and QA systems.
+  - Prerequisite: Basic Python
+
+- **How Business Thinkers Can Start Building AI Plugins With Semantic Kernel**
+  - Instructor: John Maeda
+  - Use Microsoft's Semantic Kernel for business application development with LLMs.
+  - Prerequisite: Basic Python
+
+#### Intermediate
+
+- **Serverless LLM apps with Amazon Bedrock**
+  - Instructor: Mike Chambers
+  - Deploy LLM-based applications using serverless technology and Amazon Bedrock.
+  - Prerequisite: Familiarity with Python and AWS services
+
+- **Finetuning Large Language Models**
+  - Instructor: Sharon Zhou
+  - Master LLM finetuning, differentiate from prompt engineering with hands-on experience.
+  - Prerequisite: Basic Python
+
+- **Evaluating and Debugging Generative AI Models Using Weights and Biases**
+  - Instructor: Carey Phelps
+  - Learn MLOps tools for AI model management, versioning, and debugging.
+  - Prerequisite: Familiarity with Python, PyTorch or similar frameworks
+
+- **How Diffusion Models Work**
+  - Instructor: Sharon Zhou
+  - Build and understand diffusion models, with a focus on algorithm implementation.
+  - Prerequisite: Python, TensorFlow, or Pytorch
+
+- **Automated Testing for LLMOps**
+  - Instructor: Rob Zuber
+  - Create an automated CI pipeline for LLM application evaluation.
+  - Prerequisite: Basic Python, familiarity with LLM-based applications
+
+- **Advanced Retrieval for AI with Chroma**
+  - Instructor: Anton Troynikov
+  - Improve retrieval relevancy with advanced techniques and LLM integration.
+  - Prerequisite: Intermediate Python
+
+- **Functions, Tools and Agents with LangChain**
+  - Instructor: Harrison Chase
+  - Explore
 
