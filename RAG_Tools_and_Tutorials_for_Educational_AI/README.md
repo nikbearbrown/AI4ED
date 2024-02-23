@@ -30,15 +30,32 @@ In summary, RAG represents a powerful approach to building LLM-based chatbots, o
 
 When building RAG (Retrieval-Augmented Generation) applications, cloud services like Pinecone, OpenAI, Anyscale, AWS Lambda, and Azure AI offer a range of functionalities that can be leveraged for efficient development and deployment. 
 
-Pinecone is highlighted for its vector database capabilities, which are crucial for the storage and retrieval aspects of RAG applications. Canopy, powered by Pinecone, is a flexible RAG framework that simplifies the process of chunking, embedding, and querying text data for RAG applications. It allows for rapid experimentation and building with RAG by providing a modular and extensible framework that can scale from a free plan supporting up to 100K embeddings to paid plans accommodating billions of embeddings.
+Cloud services play a vital role in the development and deployment of RAG (Retrieval-Augmented Generation) applications, offering a plethora of functionalities. These services include vector database capabilities, powerful language models for text generation, serverless computing environments, and AI-enriched search mechanisms.
 
-OpenAI's APIs, including GPT and the embeddings API, are widely used for the generation part of RAG applications. They offer powerful language models that can generate text based on the context provided by the retrieval component.
+For the storage and retrieval aspects of RAG applications, Pinecone stands out with its vector database capabilities. Canopy, which utilizes Pinecone, offers a RAG framework that streamlines text data processing.
 
-Anyscale and Ray provide a compute layer that facilitates powerful and efficient retrieval for RAG applications. They offer a serverless experience that enables developers to focus on building applications without managing infrastructure. Anyscale, in combination with Pinecone, supports efficient embeddings computation and seamless management of the end-to-end workflow for RAG applications.
+OpenAI provides APIs for the generative component of RAG applications, offering advanced language models like GPT.
 
-AWS Lambda is utilized for building serverless applications, including QA chatbots that leverage OpenAI's embeddings and GPT models. It allows for the deployment of applications without the need to manage servers, scaling automatically to meet demand
+Anyscale, along with Ray, delivers a compute layer that enhances the retrieval capabilities of RAG applications, promoting a serverless development environment.
 
-Azure AI Search offers vector support and AI enrichment capabilities that are useful for RAG applications. It provides tools for data chunking, vectorization, and the retrieval of content using Azure AI's search and LLM capabilities. Azure AI Search's vector support and integrated vectorization features make it an appealing option for building RAG solutions that require content retrieval and processing.
+AWS Lambda enables serverless application deployment, seamlessly integrating with OpenAI's technologies for building QA chatbots.
+
+Azure AI Search delivers vector support and AI enrichment tools, essential for content retrieval and processing within RAG applications.
+
+Google Cloud and Google Vertex AI join this suite with robust data ingest and machine learning services, allowing for scalable and efficient embeddings computation.
+
+Below is a list of the mentioned cloud services and links to their respective pages:
+
+- **Pinecone**: [Pinecone](https://www.pinecone.io/)
+- **Canopy**: [Canopy](https://www.canopy-ai.com/)
+- **OpenAI**: [OpenAI API](https://openai.com/api/)
+- **Anyscale**: [Anyscale](https://www.anyscale.com/)
+- **AWS Lambda**: [AWS Lambda](https://aws.amazon.com/lambda/)
+- **Azure AI Search**: [Azure AI Search](https://azure.microsoft.com/en-us/services/search/)
+- **Google Cloud**: [Google Cloud](https://cloud.google.com/)
+- **Google Vertex AI**: [Vertex AI](https://cloud.google.com/vertex-ai)
+
+These cloud services empower developers to build, scale, and maintain RAG applications effectively, catering to various needs from initial data processing to the final stages of content retrieval and response generation.
 
 These cloud services and frameworks offer a rich set of features that can support the development of RAG applications across various stages, from data processing and embeddings computation to content retrieval and text generation.
 
