@@ -52,7 +52,7 @@ After reviewing the current literature on best practices for developing Educatio
 - Collaborate with LLMs (ChatGPT, Gemma, LLaMA) to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
 
 ### Realtime Quiz Translation
-ToDo
+Implement LLMs (ChatGPT, Gemma, LLaMA) to instantly translate quizzes and exams into multiple languages, ensuring accessibility for non-native speakers and fostering an inclusive educational environment. This feature can dynamically adapt to various linguistic needs, allowing educators to reach a wider audience and provide equitable learning opportunities for all students, regardless of their primary language.
 
 ### Lecture Enhancement
 - Integrate LLMs (ChatGPT, Gemma, LLaMA) into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
