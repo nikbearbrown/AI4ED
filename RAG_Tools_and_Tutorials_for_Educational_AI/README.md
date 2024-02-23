@@ -2,6 +2,20 @@
 
 Retrieval-Augmented Generation (RAG) is a methodology used in building advanced language models, particularly for applications like chatbots, that combines the best of both retrieval-based and generative AI technologies. The basic idea behind RAG is to enhance the response generation capability of a chatbot by dynamically retrieving relevant information from a large database or corpus of text and then generating a response based on both the retrieved information and the generative model's knowledge.
 
+# Table of Contents
+1. [RAG Tools and Tutorials Educational AI](#rag-tools-and-tutorials-educational-ai)
+   - [How RAG Works](#how-rag-works)
+   - [Benefits of RAG for LLM-Based Chatbots](#benefits-of-rag-for-llm-based-chatbots)
+   - [Use Cases](#use-cases)
+2. [Cloud Services for RAG](#cloud-services-for-rag)
+3. [Useful Cloud Services for Building RAG Educational AI Applications](#useful-cloud-services-for-building-rag-educational-ai-applications)
+4. [No Code Chatbot Tools](#no-code-chatbot-tools)
+5. [UIs for RAG Apps](#uis-for-rag-apps)
+   - [Existing Commonly Used Apps for Students](#existing-commonly-used-apps-for-students)
+   - [Commonly Used LMS](#commonly-used-lms)
+6. [Other Useful Tools](#other-useful-tools)
+
+   
 ### How RAG Works
 
 1. **Retrieval Phase**: When a user inputs a query or question, the RAG system first searches a database or document collection to find relevant pieces of information. This retrieval is typically powered by vector search technologies, where documents and queries are converted into vectors (mathematical representations), and the system looks for the closest matches.
@@ -166,7 +180,7 @@ Integration with Moodle and Canvas would typically use their respective APIs to 
 
 # Other Useful Tools
 
-** Image Creation and Video Tools **
+**Image Creation and Video Tools**
 
 Sure, adding Midjourney and Bing Image Creator to the list:
 
