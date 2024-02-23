@@ -64,7 +64,6 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 
 To participate in this competition, you must create and share a public Kaggle Notebook that demonstrates how to use the Gemma model to accomplish one of the 5x relevant tasks. Your Kaggle Notebook must be made public (along with any underlying data sources) and it should be attached to the official competition dataset. All team members must be listed as collaborators on the notebook, and the notebook must be submitted via the Google Form. All submissions will be assessed initially according to the eligibility criteria, and all eligible submissions will be scored according to the evaluation rubric. We will grade the most recent submission from your team (per competition, not per category).
 
-To submit to this competition fill out the Google Form [here](https://example.com/form).
 
 **General Tips:**
 
@@ -86,4 +85,71 @@ In addition to the monetary prizes, we will also give away special Kaggle swag t
 ## Citation
 
 Paul Mooney, Ashley Chow. (2024). Google – AI Assistants for Data Tasks with Gemma. Kaggle. [https://kaggle.com/competitions/data-assistants-with-gemma](https://kaggle.com/competitions/data-assistants-with-gemma)
-```
+
+## Ideas for the Teams
+
+### Idea Generation 
+- Utilize Gemma to elevate and organize brainstorming sessions, fostering creativity and generating competition ideas for Kagglers.
+
+### Midjourney, Dall-E, and Bing Image Creating
+- Use advanced prompt engineering with Midjourney, Dall-E, and Bing to create custom images for presentations and promote visual learning for inputing images into notebooks. [Instagram](https://www.instagram.com/zebonastic.ai/)
+
+
+### Personalized Study Guides
+- Develop Gemma-powered study guides tailored to individual learning needs for Kagglers.
+
+### Automated Notebook Feedback and Improvement
+- Use Gemma to collect and analyze course feedback for continuous teaching and notebook improvement.
+
+### AI-Powered Research Support
+- Utilize Gemma for research tasks like literature review and methodology guidance to suggest approaches to a Kaggle competition.
+
+### Multilingual Tutoring and Language Support
+- Offer personalized language tutoring and support using Gemma, aiding international students, to understand Kaggle notenooks.
+
+### Code Generation
+- Leverage Gemma's capabilities to automatically create Python code snippets for Kaggle APIs and competitions.
+
+### Interactive Q&A
+- Develop a chatbot powered by Gemma for FAQs about platforms like Kaggle.
+
+### Personalized Support
+- Train Gemma on forums and discussions to generate personalized responses.
+
+### Interactive Tutorials
+- Build web-based tutorials where Gemma explains concepts conversationally.
+
+### Code-Integrated Explanations
+- Integrate Gemma into notebooks for plain English explanations of code.
+
+### Generative Cheat Sheets
+- Use Gemma to generate concise cheat sheets summarizing key concepts.
+
+### Automatic Summaries
+- Employ Gemma to generate bullet-point summaries of solution write-ups.
+
+### Personalized Digests
+- Train Gemma on user preferences to deliver personalized summaries of relevant solutions.
+
+### Comparative Analysis
+- Use Gemma for comparative analysis of solutions to identify common approaches and unique techniques.
+
+### Concept Extraction
+- Train Gemma to identify and explain key concepts in solution write-ups.
+
+### Interactive Exploration
+- Allow users to query Gemma for detailed explanations and examples based on highlighted concepts.
+
+### Concept-Based Recommendation
+- Recommend relevant competitions, notebooks, solutions or tutorials based on concepts extracted from user's current read.
+
+### Contextual Code Assistance
+- Build a tool with Gemma for code snippet suggestions based on user's current context.
+
+### Debugging Help
+- Train Gemma on common errors and solutions for debugging assistance.
+
+### Interactive Learning Environment
+- Create a platform for users to ask code pr prompt engineering -related questions and receive Gemma-generated explanations.
+
+
