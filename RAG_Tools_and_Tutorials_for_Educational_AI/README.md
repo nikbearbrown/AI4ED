@@ -44,15 +44,39 @@ Azure AI Search delivers vector support and AI enrichment tools, essential for c
 
 Google Cloud and Google Vertex AI join this suite with robust data ingest and machine learning services, allowing for scalable and efficient embeddings computation.
 
-Below is a list of the mentioned cloud services and links to their respective pages:
+## Useful Cloud Services for builing RAG Educational AI applications.
 
-- **Pinecone**: [Pinecone](https://www.pinecone.io/)
-- **OpenAI**: [OpenAI API](https://openai.com/api/)
-- **Anyscale**: [Anyscale](https://www.anyscale.com/)
-- **AWS Lambda**: [AWS Lambda](https://aws.amazon.com/lambda/)
-- **Azure AI Search**: [Azure AI Search](https://azure.microsoft.com/en-us/services/search/)
-- **Google Cloud**: [Google Cloud](https://cloud.google.com/)
-- **Google Vertex AI**: [Vertex AI](https://cloud.google.com/vertex-ai)
+- **Pinecone**: A vector database service designed for machine learning applications, offering high-performance similarity search for embedding vectors, making it ideal for RAG applications. [https://www.pinecone.io/](https://www.pinecone.io/)
+
+- **OpenAI API**: Provides access to powerful AI models, including the GPT series, enabling developers to incorporate advanced natural language processing and generation into their applications. [https://openai.com/api/](https://openai.com/api/)
+
+- **Anyscale**: Offers a platform that simplifies the process of deploying and scaling Ray applications, making distributed computing easier and more accessible. [https://www.anyscale.com/](https://www.anyscale.com/)
+
+- **AWS Lambda**: A serverless computing service that runs code in response to events and automatically manages the computing resources required, perfect for on-demand processing within RAG applications. [https://aws.amazon.com/lambda/](https://aws.amazon.com/lambda/)
+
+Sure, AWS offers several tools and services that are particularly useful for building websites and mobile applications, complementing their offerings for RAG applications. Here's a description of some of these services:
+
+- **Amazon EC2 (Elastic Compute Cloud)**: Provides resizable compute capacity in the cloud, allowing developers to launch virtual servers as instances, with a variety of configurations to suit different workloads. [Amazon EC2](https://aws.amazon.com/ec2/)
+
+- **Amazon S3 (Simple Storage Service)**: An object storage service that offers industry-leading scalability, data availability, security, and performance. It's often used for storing and serving static website content. [Amazon S3](https://aws.amazon.com/s3/)
+
+- **AWS Amplify**: A set of tools and services for building full-stack mobile and web applications, including features like authentication, data storage, backend integration, and more. [AWS Amplify](https://aws.amazon.com/amplify/)
+
+- **Amazon RDS (Relational Database Service)**: Simplifies setting up, operating, and scaling a relational database in the cloud, providing cost-efficient and resizable capacity while managing time-consuming database administration tasks. [Amazon RDS](https://aws.amazon.com/rds/)
+
+- **AWS Elastic Beanstalk**: An easy-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS. [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+
+- **AWS AppSync**: A managed service that uses GraphQL to make it easy for applications to get exactly the data they need, allowing for the building of scalable applications, including real-time updates, offline data sync, and data manipulation across multiple data sources. [AWS AppSync](https://aws.amazon.com/appsync/)
+
+These AWS tools and services offer robust solutions for developers to build, deploy, manage, and scale their websites and mobile applications efficiently in the cloud.
+
+- **Azure AI Search**: Integrates AI capabilities with Azure's search service to provide enriched content retrieval, which includes both semantic search and traditional keyword search. [https://azure.microsoft.com/en-us/services/search/](https://azure.microsoft.com/en-us/services/search/)
+
+- **Google Cloud**: Offers a wide range of cloud services including computing, storage, and machine learning, which can be leveraged for building and hosting RAG applications. [https://cloud.google.com/](https://cloud.google.com/)
+
+- **Google Vertex AI**: A managed machine learning platform that allows developers to build, deploy, and scale ML models faster, with pre-trained and custom tooling within Google Cloud. [v](https://cloud.google.com/vertex-ai)
+
+Each of these services provides specific functionalities that support various aspects of building and operating RAG applications, from data storage and management to machine learning model training and deployment.
 
 These cloud services empower developers to build, scale, and maintain RAG applications effectively, catering to various needs from initial data processing to the final stages of content retrieval and response generation.
 
@@ -139,6 +163,22 @@ Retrieval-Augmented Generation (RAG) applications can be integrated into learnin
   [https://canvas.instructure.com/doc/api/](https://canvas.instructure.com/doc/api/)
 
 Integration with Moodle and Canvas would typically use their respective APIs to interact with the system's data and user interface. The RAG application would process requests from users within the LMS, retrieve the necessary information or generate content as required, and provide that information back to the LMS for display to the user. This enhances the LMS's capability to deliver responsive and personalized educational experiences.
+
+# Other Useful Tools
+
+** Image Creation and Video Tools **
+
+Sure, adding Midjourney and Bing Image Creator to the list:
+
+- **DALL·E**: Created by OpenAI, DALL·E is an AI program capable of generating images from textual descriptions, offering a wide range of creative possibilities. [DALL·E](https://openai.com/dall-e/)
+
+- **RunwayML**: Offers a creative studio in the cloud that enables creators to use advanced AI in their creative process, including image generation and manipulation. [RunwayML](https://runwayml.com/)
+
+- **Midjourney**: An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. Midjourney focuses on creating images through textual prompts, offering detailed and artistic renditions. [Midjourney](https://www.midjourney.com/)
+
+- **Bing Image Creator**: Powered by Microsoft, this tool integrates with the Bing search engine to generate images based on text descriptions, providing users with creative and diverse visual content. [Bing Image Creator](https://www.bing.com/)
+
+These AI image creation tools demonstrate the breadth of possibilities in generating art, realistic images, and visual content through advanced machine learning and artificial intelligence technologies.
 
 
 
