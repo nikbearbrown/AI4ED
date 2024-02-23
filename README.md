@@ -43,32 +43,126 @@ After reviewing the current literature on best practices for developing Educatio
 - **Encourage Ethical and Critical Thinking**: Use AI tools to spark discussions on AI's societal implications, like bias and privacy, preparing students for a future shaped by AI and ensuring they are ethically aware.
 
 
- ## AI4ED Menu: How Gen AI Can Help with Teaching
+## AI4ED Menu: How Gen AI Can Help with Teaching
 
-1. **Virtual Office Hours Assistant**: Use ChatGPT to automate scheduling, answer common student queries, and provide additional resources during virtual office hours.
-2. **Academic Writing Support**: Collaborate with ChatGPT to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
-3. **Lecture Enhancement**: Integrate ChatGPT into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
-4. **Research Assistance**: Speed up your research process by developing prompt engineering skills utilizing ChatGPT to review literature, generate hypotheses, and assist in data analysis, helping you stay ahead in your field. Explore applications like Scholar AI and other tools developed for researchers.
-5. **Language Translation Tool**: Overcome language barriers by using ChatGPT as a translation tool to communicate effectively with students, researchers, and collaborators from around the world.
-6. **Automated Feedback System**: Implement ChatGPT to provide quick and constructive feedback on assignments, quizzes, and exams, saving you time while maintaining educational standards.
-7. **Student Support Chatbot**: Develop a chatbot to assist students with general inquiries, course information, and academic resources, creating a more accessible and responsive support system.
-8. **Idea Generation Workshops**: Develop prompt engineering skills to elevate and organize brainstorming sessions with ChatGPT to foster creativity, generate research ideas, and explore new perspectives within your department.
-9. **Language Learning Companion**: Integrate ChatGPT into language courses to provide students with conversational practice, grammar explanations, and cultural insights.
-10. **Text to Video**: Enhance student learning by exploring text-to-video feature in tools like OpenAI's Sora [https://openai.com/sora](https://openai.com/sora). Create short documentaries on any topic that can then be used for discussion and analysis. Develop prompt engineering skills to create advanced documentaries.
-11. **Midjourney, Dall-E, and Bing Image Creating**: Develop your own custom-made images for your PowerPoint presentations, using advanced prompt engineering skills. Promote visual learning. You see examples of Midjourney, Dall-E, and Bing images here [https://www.instagram.com/zebonastic.ai/](https://www.instagram.com/zebonastic.ai/). 
-12. **Chatbot Application Development Using Zoom Lecture Transcriptions**: Utilize ChatGPT to develop applications that automate administrative tasks and provide personalized support to students by leveraging Zoom lecture transcriptions.
-13. **Syllabus-Learning Outcome Alignment**: Engage ChatGPT in aligning course syllabi with learning outcomes, identifying discrepancies, and suggesting improvements to ensure course content meets educational objectives.
-14. **Real-time Student Assessment and Support**: Implement ChatGPT for developing pre and post-class quizzes, offering real-time assessment, and providing support tailored to individual student needs during courses.
-15. **Integration of ChatGPT with XR Projects**: Enhance XR (Extended Reality) projects with personalized tutoring powered by ChatGPT to offer real-time assistance and feedback, improving the immersive learning experience.
-16. **AI-Powered Grading Assistance**: Streamline the grading process with ChatGPT, automating assignment assessments and providing consistent, constructive feedback to students.
-17. **Personalized Study Guides**: Develop ChatGPT-powered customized study guides that focus on students' individual learning needs, helping them navigate complex course materials more efficiently.
-18. **Automated Course Feedback and Improvement**: Utilize ChatGPT for collecting and analyzing course feedback, providing actionable insights for continuous improvement in teaching methods and course content.
-19. **AI-Enhanced Career Guidance**: Implement ChatGPT to offer personalized career advice, helping students explore career paths, internships, and job opportunities based on their interests and academic background.
-20. **AI-Enhanced Academic Advising**: Leverage ChatGPT for academic advising, providing students with immediate, accurate information on course selection, degree requirements, and academic planning.
-21. **AI-Powered Research Support**: Utilize ChatGPT to assist in research tasks such as literature review, formulation of research questions, and methodology guidance, enhancing research efficiency and output.
-22. **Multilingual Tutoring and Language Support**: Offer personalized language tutoring and support using ChatGPT, helping international students improve language proficiency and academic performance.
-23. **"Semesterization"**: Utilize AI to support the academic structuring process, dividing the academic year into semesters and modularizing courses into self-contained units that can be combined to meet educational requirements, facilitating a broader shift towards modularization in higher education.
-24. **Personalized Co-op and Job Pathway System**: Develop a system using AI to curate personalized co-op and job pathways. Integrate skill ontologies with coursework to match individuals with job opportunities that align with their skills and learning outcomes.
+### Virtual Office Hours Assistant
+- Use LLMs (ChatGPT, Gemma, LLaMA) to automate scheduling, answer common student queries, and provide additional resources during virtual office hours.
+
+### Academic Writing Support
+- Collaborate with LLMs (ChatGPT, Gemma, LLaMA) to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
+
+### Lecture Enhancement
+- Integrate LLMs (ChatGPT, Gemma, LLaMA) into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
+
+### Research Assistance
+- Speed up your research process by developing prompt engineering skills utilizing LLMs (ChatGPT, Gemma, LLaMA) for tasks like literature review, hypothesis generation, and data analysis. Explore tools like Scholar AI for researchers.
+
+### Language Translation Tool
+- Overcome language barriers by using LLMs (ChatGPT, Gemma, LLaMA) as a translation tool to communicate effectively with a global audience.
+
+### Automated Feedback System
+- Implement LLMs (ChatGPT, Gemma, LLaMA) to provide quick and constructive feedback on assignments, quizzes, and exams.
+
+### Student Support Chatbot
+- Develop a chatbot to assist students with general inquiries, course information, and academic resources.
+
+### Idea Generation Workshops
+- Utilize LLMs (ChatGPT, Gemma, LLaMA) to elevate and organize brainstorming sessions, fostering creativity and generating research ideas.
+
+### Language Learning Companion
+- Integrate LLMs (ChatGPT, Gemma, LLaMA) into language courses for conversational practice, grammar explanations, and cultural insights.
+
+### Text to Video
+- Explore text-to-video features in tools like OpenAI's Sora to create educational documentaries. [Sora](https://openai.com/sora)
+
+### Midjourney, Dall-E, and Bing Image Creating
+- Use advanced prompt engineering with Midjourney, Dall-E, and Bing to create custom images for presentations and promote visual learning. [Instagram](https://www.instagram.com/zebonastic.ai/)
+
+### Chatbot Application Development Using Zoom Lecture Transcriptions
+- Leverage LLMs (ChatGPT, Gemma, LLaMA) to automate administrative tasks and provide personalized support by utilizing Zoom lecture transcriptions.
+
+### Syllabus-Learning Outcome Alignment
+- Engage LLMs (ChatGPT, Gemma, LLaMA) in aligning course syllabi with learning outcomes, ensuring course content meets educational objectives.
+
+### Real-time Student Assessment and Support
+- Utilize LLMs (ChatGPT, Gemma, LLaMA) for developing quizzes and offering real-time support tailored to individual student needs.
+
+### Integration of LLMs (ChatGPT, Gemma, LLaMA) with XR Projects
+- Enhance Extended Reality (XR) projects with LLMs (ChatGPT, Gemma, LLaMA) for real-time assistance and feedback.
+
+### AI-Powered Grading Assistance
+- Streamline grading with LLMs (ChatGPT, Gemma, LLaMA), providing consistent, constructive feedback.
+
+### Personalized Study Guides
+- Develop LLMs (ChatGPT, Gemma, LLaMA)-powered study guides tailored to individual learning needs.
+
+### Automated Course Feedback and Improvement
+- Use LLMs (ChatGPT, Gemma, LLaMA) to collect and analyze course feedback for continuous teaching improvement.
+
+### AI-Enhanced Career Guidance
+- Implement LLMs (ChatGPT, Gemma, LLaMA) for personalized career advice based on students' interests and backgrounds.
+
+### AI-Enhanced Academic Advising
+- Leverage LLMs (ChatGPT, Gemma, LLaMA) for immediate, accurate academic advising.
+
+### AI-Powered Research Support
+- Utilize LLMs (ChatGPT, Gemma, LLaMA) for research tasks like literature review and methodology guidance.
+
+### Multilingual Tutoring and Language Support
+- Offer personalized language tutoring and support using LLMs (ChatGPT, Gemma, LLaMA), aiding international students.
+
+### "Semesterization"
+- Use AI to support academic structuring into semesters and modularizing courses.
+
+### Personalized Co-op and Job Pathway System
+- Develop a system using AI to curate personalized co-op and job pathways.
+
+### Code Generation
+- Leverage LLMs (ChatGPT, Gemma, LLaMA)'s capabilities to automatically create Python code snippets for Kaggle APIs and competitions.
+
+### Interactive Q&A
+- Develop a chatbot powered by LLMs (ChatGPT, Gemma, LLaMA) for FAQs about platforms like Kaggle.
+
+### Personalized Support
+- Train LLMs (ChatGPT, Gemma, LLaMA) on forums and discussions to generate personalized responses.
+
+### Interactive Tutorials
+- Build web-based tutorials where LLMs (ChatGPT, Gemma, LLaMA) explains concepts conversationally.
+
+### Code-Integrated Explanations
+- Integrate LLMs (ChatGPT, Gemma, LLaMA) into notebooks for plain English explanations of code.
+
+### Generative Cheat Sheets
+- Use LLMs (ChatGPT, Gemma, LLaMA) to generate concise cheat sheets summarizing key concepts.
+
+### Automatic Summaries
+- Employ LLMs (ChatGPT, Gemma, LLaMA) to generate bullet-point summaries of solution write-ups.
+
+### Personalized Digests
+- Train LLMs (ChatGPT, Gemma, LLaMA) on user preferences to deliver personalized summaries of relevant solutions.
+
+### Comparative Analysis
+- Use LLMs (ChatGPT, Gemma, LLaMA) for comparative analysis of solutions to identify common approaches and unique techniques.
+
+### Concept Extraction
+- Train LLMs (ChatGPT, Gemma, LLaMA) to identify and explain key concepts in solution write-ups.
+
+### Interactive Exploration
+- Allow users to query LLMs (ChatGPT, Gemma, LLaMA) for detailed explanations and examples based on highlighted concepts.
+
+### Concept-Based Recommendation
+- Recommend relevant solutions or tutorials based on concepts extracted from user's current read.
+
+### Contextual Code Assistance
+- Build a tool with LLMs (ChatGPT, Gemma, LLaMA) for code snippet suggestions based on user's current context.
+
+### Debugging Help
+- Train LLMs (ChatGPT, Gemma, LLaMA) on common errors and solutions for debugging assistance.
+
+### Interactive Learning Environment
+- Create a platform for users to ask code pr prompt engineering -related questions and receive LLMs (ChatGPT, Gemma, LLaMA)-generated explanations.
+
+
    
 ## Drafts of Papers in Progress
 
