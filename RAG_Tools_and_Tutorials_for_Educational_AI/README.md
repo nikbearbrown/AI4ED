@@ -88,7 +88,7 @@ These AWS tools and services offer robust solutions for developers to build, dep
 
 - **Google Cloud**: Offers a wide range of cloud services including computing, storage, and machine learning, which can be leveraged for building and hosting RAG applications. [https://cloud.google.com/](https://cloud.google.com/)
 
-- **Google Vertex AI**: A managed machine learning platform that allows developers to build, deploy, and scale ML models faster, with pre-trained and custom tooling within Google Cloud. [v](https://cloud.google.com/vertex-ai)
+- **Google Vertex AI**: A managed machine learning platform that allows developers to build, deploy, and scale ML models faster, with pre-trained and custom tooling within Google Cloud. [https://cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai)
 
 Each of these services provides specific functionalities that support various aspects of building and operating RAG applications, from data storage and management to machine learning model training and deployment.
 
