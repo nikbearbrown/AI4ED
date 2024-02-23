@@ -51,6 +51,9 @@ After reviewing the current literature on best practices for developing Educatio
 ### Academic Writing Support
 - Collaborate with LLMs (ChatGPT, Gemma, LLaMA) to assist students in improving their writing skills by offering real-time feedback, suggestions, and guidance on academic papers.
 
+### Realtime Quiz Translation
+ToDo
+
 ### Lecture Enhancement
 - Integrate LLMs (ChatGPT, Gemma, LLaMA) into your lectures to generate instant summaries, answer student questions, or even create interactive quizzes for a more engaging learning experience.
 
