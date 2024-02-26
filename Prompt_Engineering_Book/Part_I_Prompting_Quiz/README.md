@@ -450,7 +450,7 @@ E) Prompt engineering is ideal for applications where control over hardware is c
 **Wrong Answer:** D  
 **Explanation for Wrong Answer:** D) Making technology accessible to non-technical users is a strength of prompt engineering through AI and NLP, not C++.
 
-**Quizlet One**
+**Quizlet Four**
 
 Combining prompt patterns can be highly effective in scenarios that require a nuanced understanding of user intent, the ability to handle a variety of input types, or the generation of diverse and creative outputs. Here are some examples where combining patterns is useful, followed by scenarios where it might not be as beneficial.
 
@@ -543,7 +543,7 @@ E) Avoiding combined patterns in educational tools
 **Wrong Answer:** E  
 **Explanation for Wrong Answer:** E) Combining patterns in educational tools can actually create a more dynamic learning experience, contrary to the suggestion of avoiding such combinations.
 
-**Quizlet One**
+**Quizlet Five**
 
 Transformers represent a significant advancement in the field of deep learning, particularly in natural language processing (NLP) and beyond. Here's how transformers differ from other deep learning models:
 
@@ -636,7 +636,7 @@ E) Processing data in parallel
 **Wrong Answer:** A  
 **Explanation for Wrong Answer:** A) Sequential processing is a characteristic of RNNs, not transformers, and does not contribute to the success of transformer-based models.
 
-**Quizlet One**
+**Quizlet Six**
 
 Let's create a multiple-choice quiz question for each of the specified prompt patterns using real-world examples. Each question will be paired with five choices, and the correct answer will be explained.
 
@@ -705,51 +705,43 @@ E. Providing a multiple-choice quiz on capitals of countries starting with 'I'
 **Correct Answer:** E. Providing a multiple-choice quiz on capitals of countries starting with 'I'
 **Explanation:** This option turns the interaction into a game by offering a specific challenge related to the prompt, fitting the game play pattern which incorporates elements of play or competition into the interaction.
 
+**Quizlet Seven**
 
-**Quizlet One**
+**Quizlet Eight**
 
-**Quizlet One**
+**Quizlet Nine**
 
-**Quizlet One**
+**Quizlet Ten**
 
-**Quizlet One**
+**Quizlet Eleven**
 
-**Quizlet One**
+**Quizlet Twelve**
 
-**Quizlet One**
+**Quizlet Thirteen**
 
-**Quizlet One**
+**Quizlet Fourteen**
 
-**Quizlet One**
+**Quizlet Fifteen**
 
+**Quizlet Sixteen**
 
-**Quizlet One**
+**Quizlet Seventeen**
 
-**Quizlet One**
+**Quizlet Eighteen**
 
-**Quizlet One**
+**Quizlet Nineteen**
 
-**Quizlet One**
+**Quizlet Twenty**
 
-**Quizlet One**
+**Quizlet Twenty-One**
 
-**Quizlet One**
+**Quizlet Twenty-Two**
 
+**Quizlet Twenty-Three**
 
-**Quizlet One**
+**Quizlet Twenty-Four**
 
-**Quizlet One**
+**Quizlet Twenty-Five**
 
-**Quizlet One**
-
-**Quizlet One**
-
-**Quizlet One**
-
-**Quizlet One**
-
-
-
-
-
+**Quizlet Twenty-Six**
 
