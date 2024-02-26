@@ -1,8 +1,9 @@
 # Prompt Engineering Quiz Bank
-Let's create a multiple-choice quiz question for each of the prompt patterns mentioned, using real-world prompts and providing explanations for the correct answers.
+
 
 **Quizlet One**
 
+Basic prompt patterns.
 
 1. Helpful Assistant Pattern   
 2. Persona Pattern   
@@ -20,19 +21,69 @@ Let's create a multiple-choice quiz question for each of the prompt patterns men
 14. Tail Generation Pattern   
 15. Semantic Filter Pattern
 
-The presentation on "Prompt Engineering" provides a comprehensive guide on crafting effective prompts for AI interactions, covering various patterns such as the "Helpful Assistant," "Persona," "Audience Persona," "Flipped Interaction," and "Game Play." Here's a summary of the patterns and examples provided:
+These patterns describe various strategies for designing interactions, content, and functionalities in software applications, particularly those involving AI and user engagement. Let's define each pattern and provide an example for clarity:
 
-1. **Helpful Assistant Pattern**: This pattern aims to ensure that the AI behaves in a supportive, respectful manner, avoiding any negative or inappropriate responses. For instance, prompts under this pattern might include statements like "You are a helpful AI assistant" and "You will never answer my questions in a way that is insulting, derogatory, or uses a hostile tone." Examples include prompts that emphasize the AI's commitment to providing the best possible answers and protecting the user from harmful content.
+### 1. **Helpful Assistant Pattern**
+- **Definition:** This pattern involves designing the AI or system to act as a helpful assistant, offering support, guidance, or performing tasks for the user.
+- **Example:** A virtual assistant app that suggests the fastest route to a destination based on current traffic conditions.
 
-2. **Persona Pattern**: This involves the AI acting as a specific persona to perform a given task, such as a speech language pathologist assessing a child's speech or a nutritionist discussing eating choices. The prompts direct the AI to adopt a particular persona and respond accordingly.
+### 2. **Persona Pattern**
+- **Definition:** Creating a character or identity for the AI system, which helps users relate to the system on a more personal level.
+- **Example:** A chatbot designed for customer service that introduces itself as "Alex" and uses a friendly tone throughout interactions.
 
-3. **Audience Persona Pattern**: Here, the prompt instructs the AI to explain a topic assuming the user has a specific background or persona, such as explaining large language models to a user imagined as a bird. This pattern tailors the explanation to the assumed knowledge level and perspective of the persona.
+### 3. **Audience Persona Pattern**
+- **Definition:** Designing the system with a specific target audience in mind, tailoring the interaction and content to match their preferences and needs.
+- **Example:** An educational app tailored for children, using simple language, colorful graphics, and interactive elements to keep them engaged.
 
-4. **Flipped Interaction Pattern**: This pattern flips the usual interaction dynamic, with the AI asking the user questions to achieve a specific goal, such as creating a meal plan or diagnosing a problem. The AI continues asking questions until it has sufficient information to meet the specified objective.
+### 4. **Flipped Interaction Pattern**
+- **Definition:** Inverting the typical interaction model, where instead of the user always initiating actions, the system prompts the user to take actions or make decisions.
+- **Example:** A fitness app that sends reminders to the user to log their daily activities or to stand up and stretch after long periods of inactivity.
 
-5. **Game Play Pattern**: The AI creates or facilitates a game around a specific topic, with clear rules outlined in the prompt. Examples include a cave exploration game to discover a lost language, where the user must navigate through a cave and uncover words and symbols, or a group party game involving creating prompts for DALL-E to generate images.
+### 5. **Game Play Pattern**
+- **Definition:** Incorporating game design elements into the system to make the interaction more engaging and fun.
+- **Example:** A language learning app that includes points, levels, and challenges to motivate learners to progress through lessons.
 
+### 6. **Template Pattern**
+- **Definition:** Offering predefined templates or frameworks that users can customize or fill with their own content, simplifying the creation process.
+- **Example:** A social media post creator that provides various templates for announcements, promotions, or updates, allowing users to easily create attractive posts.
 
+### 7. **Meta Language Creation Pattern**
+- **Definition:** Designing a new language or set of symbols specific to the system, which users can learn to perform complex interactions more efficiently.
+- **Example:** A project management tool that uses unique icons and shorthand notations for different statuses and actions within projects.
+
+### 8. **Recipe Pattern**
+- **Definition:** Providing a step-by-step guide or formula for achieving a specific outcome, making complex tasks more approachable.
+- **Example:** A cooking app that offers detailed recipes, including ingredients, steps, and videos, for various dishes.
+
+### 9. **Alternative Approaches Pattern**
+- **Definition:** Offering multiple ways to achieve the same goal, accommodating different user preferences or contexts.
+- **Example:** A navigation app that provides several route options to a destination, considering factors like speed, scenic value, and toll roads.
+
+### 10. **Ask for Input Pattern**
+- **Definition:** Actively soliciting input or feedback from users to tailor the experience or gather valuable data.
+- **Example:** A music streaming service that asks users to rate songs or artists to improve personalized recommendations.
+
+### 11. **Outline Expansion Pattern**
+- **Definition:** Starting with a broad overview or outline and allowing users to expand sections for more detailed information.
+- **Example:** An online encyclopedia entry that presents a summary with options to expand each section for more in-depth reading.
+
+### 12. **Menu Actions Pattern**
+- **Definition:** Organizing functionalities or options into menus, making it easier for users to navigate and select actions.
+- **Example:** A photo editing app that categorizes tools and effects into collapsible menus based on their functions.
+
+### 13. **Fact Check List Pattern**
+- **Definition:** Presenting a checklist or verification steps to encourage accuracy and reliability in information sharing.
+- **Example:** A news aggregation platform that provides a checklist for users to verify the credibility of sources before sharing articles.
+
+### 14. **Tail Generation Pattern**
+- **Definition:** Generating customized content or suggestions based on user behavior, preferences, or previous interactions.
+- **Example:** An e-commerce website that displays personalized product recommendations based on browsing and purchase history.
+
+### 15. **Semantic Filter Pattern**
+- **Definition:** Applying filters based on the meaning or context of content, rather than just keywords or tags, to improve search or categorization.
+- **Example:** A job search platform that filters listings not only by job title but also by analyzing job descriptions to match the user's skills and preferences. 
+
+These patterns represent a blend of design, interaction, and content strategies that can enhance user experience, engagement, and satisfaction in various applications.
 
 
 ### 1. Helpful Assistant Pattern
