@@ -1,6 +1,7 @@
 # AI Bot Services and Tools
 
-Here's a table of contents based on the sections and subsections you've outlined, using two asterisks (`**`) to denote sections:
+For building chatbots and conversational AI interfaces, several leading tech companies offer specialized tools and platforms. Here's a list from Google, Amazon, and Meta (Facebook), detailing their offerings and simialar open-source projects.
+
 
 1. [Google Cloud](#Google-Cloud)
    - [Chatbot Tool](#Chatbot-Tool-Google-Cloud)
@@ -28,7 +29,6 @@ Here's a table of contents based on the sections and subsections you've outlined
    - [Chatbot Tool](#chatbot-tool)
      - [Azure Bot Services](#azure-bot-services)
    - [Key Features of Azure Bot Services](#key-features-of-azure-bot-services)
-   - [Use Cases](#use-cases)
    - [AI Related to Chatbots](#ai-related-to-chatbots)
      - [Azure Machine Learning](#azure-machine-learning)
      - [Azure Cognitive Services](#azure-cognitive-services)
@@ -36,11 +36,9 @@ Here's a table of contents based on the sections and subsections you've outlined
      - [Azure Cognitive Search](#azure-cognitive-search)
      - [Azure Functions](#azure-functions)
      - [Azure DevOps](#azure-devops)
-
 5. [Hugging Face](#hugging-face)
    - [What Hugging Face Does](#what-hugging-face-does)
    - [Relation to Chatbots](#relation-to-chatbots)
-
 6. [LangChain, LangFlow, and LangSmith](#langchain-langflow-and-langsmith)
    - [LangChain](#langchain)
    - [LangFlow](#langflow)
@@ -55,8 +53,6 @@ Here's a table of contents based on the sections and subsections you've outlined
      - Community and Open Source
    - [Deployment and Accessibility](#Deployment-and-Accessibility)
    - [Comparison with Other Tools](#Comparison-with-Other-Tools)
-   - [Conclusion](#Conclusion)
-
 8. **[Flowise](#Flowise)**
    - [Key Features of Flowise](#Key-Features-of-Flowise)
      - Drag-and-Drop UI
@@ -68,7 +64,6 @@ Here's a table of contents based on the sections and subsections you've outlined
    - [Developer Setup and Workflow](#Developer-Setup-and-Workflow)
 
 
- For building chatbots and conversational AI interfaces, several leading tech companies offer specialized tools and platforms. Here's a list from Google, Amazon, and Meta (Facebook), detailing their offerings similar to Microsoft's Azure Bot Services:
 
 ## Google Cloud
 
