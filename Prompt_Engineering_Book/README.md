@@ -1,3 +1,36 @@
+## 1) LLMS, Word Embeddings, and AI Theory
+- **Lesson 1.A: Introduction to Large Language Models** - This lesson provides an overview of LLMs, which directly aligns with the foundational aspects of LLMS and AI theory.
+- **Lesson 1.B: The Transformer Revolution** - Discusses key concepts of the transformer architecture, essential to understanding the theoretical underpinnings of modern LLMs.
+- **Lesson 1.C: Understanding Large Language Models** - Offers a deep dive into the architecture of LLMs and their generative capabilities, fitting well within AI theory and the technicalities of LLMs.
+- **Lesson 1.D: C++ versus LLM** - This section contrasts prompt engineering with traditional programming (using C++ as an example), which doesn't neatly fit into the provided categories but offers valuable insight into different approaches to interacting with AI and software development.
+
+- 
+## 2) Prompt Engineering
+- **Lesson 2.A: Crafting Your First Prompts, Understanding Prompts, Introduction to Prompt Patterns** - These sections introduce prompt engineering basics.
+- **Lesson 2.B: Advanced Prompt Engineering** - Focuses on advanced techniques in prompt engineering.
+- **Lesson 2.C: Advanced Prompt Techniques Continued** - Continues to expand on advanced prompt strategies, making it a clear fit for this category.
+
+## 3) RAG, Vector Databases, Langchain, and Langflow
+- **Lessons 3.A: Integrating Vector Databases with LLMs** - Directly discusses the use of vector databases, relevant to this grouping.
+- **Lessons 3.B: Leveraging LangFlow for RAG Applications** - Covers LangChain, fitting perfectly into this group.
+- **Lessons 3.C: Leveraging LangChain for RAG Applications** - Covers LangChain, fitting perfectly into this group.
+- **Lessons 3.D: Leveraging Flowise for RAG Applications** - Covers LangChain, fitting perfectly into this group.
+- **Lessons 3.E: Leveraging Diffy for RAG Applications** - Covers LangChain, fitting perfectly into this group.
+
+## 4) Fine-Tuning LLMs and Foundation Models
+- **Lesson 4.A: Fine-Tuning and Configuring LLMs** - Centers on fine-tuning practices for LLMs, aligning with this group.
+- **Lesson 4.B: Reinforcement Learning and LLM Applications** - Explores reinforcement learning in the context of LLMs, which is critical for fine-tuning and optimizing these models.
+- 
+## 5) Production Systems, DevOps, and AIOps
+- **Lesson 5.A: What is DevOps, and AIOps** - Addresses the optimization and deployment of LLMs, which involves considerations relevant to Production Systems, DevOps, and AIOps.
+- 
+## 6) Cost of AI?
+
+## 7) Unmatched
+
+
+
+
 # Lesson 1: Introduction to Large Language Models
 
 ## Overview of Large Language Models (LLMs)
