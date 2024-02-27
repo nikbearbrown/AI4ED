@@ -1,5 +1,73 @@
 # AI Bot Services and Tools
 
+Here's a table of contents based on the sections and subsections you've outlined, using two asterisks (`**`) to denote sections:
+
+1. [Google Cloud](#Google-Cloud)
+   - [Chatbot Tool](#Chatbot-Tool-Google-Cloud)
+     - [Dialogflow](#Dialogflow)
+   - [AI Related to Chatbots](#AI-Related-to-Chatbots-Google-Cloud)
+     - [Vertex AI](#Vertex-AI)
+2. [Amazon Web Services (AWS)](#Amazon-Web-Services-AWS)
+   - [Chatbot Tool](#Chatbot-Tool-AWS)
+     - [Amazon Lex](#Amazon-Lex)
+   - [AI Related to Chatbots](#AI-Related-to-Chatbots-AWS)
+     - [Amazon SageMaker](#Amazon-SageMaker)
+     - [AWS Lambda](#AWS-Lambda)
+     - [Amazon Comprehend](#Amazon-Comprehend)
+     - [AWS Deep Learning AMIs and Containers](#AWS-Deep-Learning-AMIs-and-Containers)
+     - [AWS Machine Learning Embark Program](#AWS-Machine-Learning-Embark-Program)
+3. [Meta (Facebook)](#Meta-Facebook)
+   - [Chatbot Tool](#Chatbot-Tool-Meta)
+     - [Wit.ai](#Witai)
+   - [AI Related to Chatbots](#AI-Related-to-Chatbots-Meta)
+     - [PyTorch](#PyTorch)
+     - [Hugging Face Collaboration](#Hugging-Face-Collaboration)
+     - [FAISS](#FAISS)
+     - [Detectron2](#Detectron2)
+4. [Microsoft Azure](#microsoft-azure)
+   - [Chatbot Tool](#chatbot-tool)
+     - [Azure Bot Services](#azure-bot-services)
+   - [Key Features of Azure Bot Services](#key-features-of-azure-bot-services)
+   - [Use Cases](#use-cases)
+   - [AI Related to Chatbots](#ai-related-to-chatbots)
+     - [Azure Machine Learning](#azure-machine-learning)
+     - [Azure Cognitive Services](#azure-cognitive-services)
+     - [Azure Bot Services](#azure-bot-services-1)
+     - [Azure Cognitive Search](#azure-cognitive-search)
+     - [Azure Functions](#azure-functions)
+     - [Azure DevOps](#azure-devops)
+
+5. [Hugging Face](#hugging-face)
+   - [What Hugging Face Does](#what-hugging-face-does)
+   - [Relation to Chatbots](#relation-to-chatbots)
+
+6. [LangChain, LangFlow, and LangSmith](#langchain-langflow-and-langsmith)
+   - [LangChain](#langchain)
+   - [LangFlow](#langflow)
+   - [LangSmith](#langsmith)
+7. **[Dify.ai](#Dify.ai)**
+   - [Key Features of Dify](#Key-Features-of-Dify)
+     - LLM Support
+     - Prompt Integrated Development Environment (IDE)
+     - RAG (Retrieval-Augmented Generation) Engine
+     - AI Agent
+     - Continuous Operations
+     - Community and Open Source
+   - [Deployment and Accessibility](#Deployment-and-Accessibility)
+   - [Comparison with Other Tools](#Comparison-with-Other-Tools)
+   - [Conclusion](#Conclusion)
+
+8. **[Flowise](#Flowise)**
+   - [Key Features of Flowise](#Key-Features-of-Flowise)
+     - Drag-and-Drop UI
+     - Quick Start with NodeJS
+     - Docker Support
+     - Developer-Friendly Environment
+     - Comprehensive Documentation and Community Support
+   - [Deployment and Accessibility](#Deployment-and-Accessibility-1)
+   - [Developer Setup and Workflow](#Developer-Setup-and-Workflow)
+
+
  For building chatbots and conversational AI interfaces, several leading tech companies offer specialized tools and platforms. Here's a list from Google, Amazon, and Meta (Facebook), detailing their offerings similar to Microsoft's Azure Bot Services:
 
 ## Google Cloud
@@ -237,9 +305,8 @@ LangChain, LangFlow, and LangSmith are components of a broader ecosystem designe
 
 **Integration with LangChain**: LangSmith is specifically designed to work with LangChain, providing an enhanced environment for developers to fine-tune and manage their LLM applications effectively. It represents an essential component of the ecosystem for those looking to deploy LangChain applications rapidly and efficiently.
 
-### Conclusion
-
 The LangChain ecosystem, complemented by LangSmith, offers a robust framework and set of tools for developers aiming to harness the power of language models in their applications. LangChain provides the foundational framework and libraries for building context-aware reasoning applications, while LangSmith offers the necessary developer platform for testing, monitoring, and deploying these applications with greater ease. Together, they form a comprehensive solution for creating sophisticated LLM applications across various use cases and industries.
+
 ## Dify.ai
 
 Dify is an advanced Large Language Model (LLM) application development platform, designed to streamline the creation, deployment, and management of generative AI-native applications. Its integration of Backend as a Service (BaaS) and LLM Operations (LLMOps) positions Dify as a comprehensive solution for developers and organizations looking to leverage the power of LLMs in their projects. Here's a detailed overview of what Dify offers:
@@ -295,6 +362,5 @@ Flowise presents itself as a user-friendly platform designed for the seamless de
 
 - **Developer Setup and Workflow**: Developers can set up their development environment by cloning the repository, installing dependencies, and running the application through Yarn commands. Flowise supports a development build with automatic reloading for a more efficient development process.
 
-### Conclusion:
 
 Flowise is tailored for developers and organizations aiming to build and deploy LLM applications with ease and efficiency. Its emphasis on a user-friendly interface, coupled with robust support for Docker and flexible deployment options, makes it an attractive choice for a wide range of LLM application development projects. The platform's developer-friendly tools and comprehensive documentation further enhance its appeal, providing a solid foundation for building sophisticated LLM applications.
