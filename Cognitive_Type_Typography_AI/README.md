@@ -12,6 +12,46 @@ Reading is a fundamental process through which we acquire information and learn.
 
 This research aims to create public datasets and deep learning models which map a detailed “anatomy of type” to eye tracking data of people reading and answering questions on short passages of text. We plan to extend existing datasets with a focus on the detailed physical characterization of type and its cognitive effects.
 
+## Classification of Latin-Typefaces
+
+- **PANOSE Classification System:** The PANOSE Classification System is a comprehensive tool for categorizing typefaces based on ten specific visual attributes. These attributes are designed to capture the most distinctive aspects of a font's appearance, enabling precise matching and identification. Here are the ten attributes used in the PANOSE system:
+
+1. **Family Type:** Distinguishes between general design classes such as serif, sans serif, scripts, and decorative.
+
+2. **Serif Style:** Identifies the type of serif present in a font (if any), such as no serifs, cove serifs, square serifs, etc.
+
+3. **Weight:** Measures the visual thickness of the strokes, ranging from very light to very heavy.
+
+4. **Proportion:** Describes the width of the characters in relation to their height, distinguishing between fonts that are expanded, normal, condensed, or very condensed.
+
+5. **Contrast:** Indicates the degree of contrast between thick and thin strokes within the characters, from none to very high contrast.
+
+6. **Stroke Variation:** Refers to the variation in stroke thickness, identifying whether the stroke widths are uniform or vary significantly.
+
+7. **Arm Style:** Describes the design of the arms, legs, and tails of characters, such as straight arms/horizontal, straight arms/wedge, etc.
+
+8. **Letterform:** Focuses on the overall shape of the letters, considering aspects like normal/square, extended, or oval.
+
+9. **Midline:** Indicates the position of the midline in characters (if applicable), which affects the appearance of lowercase letters, ranging from standard to high or low.
+
+10. **X-height:** Measures the height of lowercase letters relative to the height of uppercase letters, identifying whether the x-height is short, medium, or tall.
+
+By analyzing a typeface across these ten dimensions, the PANOSE system provides a nuanced and detailed approach to font classification. This enables software and designers to find the closest possible matches among fonts, ensuring that text appearance remains consistent even when the original font is not available. This level of detail helps maintain design integrity across various digital platforms and documents.
+
+- **ATypI Classification (Vox-ATypI Classification):** Originally developed by Maximilien Vox in 1954 and later adopted by the Association Typographique Internationale (ATypI), this system categorizes typefaces into 11 general classes, such as Humanist, Garalde, Transitional, etc. It is one of the most widely recognized classification systems in the typographic community.
+
+- **British Standards Classification (BS 2961):** Issued by the British Standards Institution, this system provides a different approach to classifying typefaces based on characteristics such as x-height, character width, and contrast between thick and thin strokes.
+
+- **DIN 16518:** A German standard classification system for typefaces developed in 1964. It classifies typefaces into groups based on their historical and stylistic characteristics, similar to the Vox-ATypI system but with some differences in categories and definitions.
+
+- **Alessandrini System:** Jean Alessandrini proposed a classification system that focuses on the visual and stylistic aspects of typefaces, grouping them into broader categories that reflect their overall appearance and mood, rather than their historical roots.
+
+- **Bringhurst's System:** In "The Elements of Typographic Style," Robert Bringhurst proposes a system based on the evolution and characteristics of typefaces, from Renaissance letterforms to modern digital types. While not a formal classification system, it provides a framework for understanding the development and characteristics of type.
+
+- **TypeLogic:** This is a less conventional system that categorizes typefaces based on their perceived personality and emotional impact, rather than their physical characteristics. It's more subjective and is used in design contexts to match typefaces with the desired tone of a project.
+
+Each of these systems offers a unique lens through which to view and classify typefaces, catering to different needs and perspectives within the design and typographic communities. The choice of system often depends on the specific requirements of a project, the historical or stylistic focus of a designer, or the need for compatibility with existing classification standards.
+
 ## Keywords
 
 Typography, Reading, Education, Reading Comprehension, Deep Learning.
