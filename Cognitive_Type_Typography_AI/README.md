@@ -12,6 +12,28 @@ Reading is a fundamental process through which we acquire information and learn.
 
 This research aims to create public datasets and deep learning models which map a detailed “anatomy of type” to eye tracking data of people reading and answering questions on short passages of text. We plan to extend existing datasets with a focus on the detailed physical characterization of type and its cognitive effects.
 
+The Cognitive Type Project is pioneering a groundbreaking model inspired by the capabilities of AI systems like Midjourney and DALLE. This model is designed to translate the complex jargon of typeface classification, particularly from the Classification of Latin-Typefaces, into vivid images that can be seamlessly integrated into typography software such as FontForge. Utilizing cutting-edge tools like Tobii Pro Lab and Tobii Pro Glasses 3, the project aims to meticulously assess eye movements, gathering critical insights into how the intricate properties of typefaces influence cognitive aspects like readability and aesthetic appeal.
+
+### Introduction
+
+**The Cognitive Type Project:** Building Computational Bridges from Typography to Cognition
+
+The essence of the Cognitive Type Project lies in its mission to harness computational tools for the creation of typefaces that not only elevate aesthetic beauty but also enhance cognitive engagement. This innovative approach opens up new possibilities for typographers, enabling the design of typefaces optimized for diverse applications—ranging from improving click-through rates on digital ads to enhancing the reading experience in children's books, and even helping companies gain a deeper understanding of how text influences customer perception.
+
+### Understanding the Impact
+
+It is a well-established fact that different typefaces carry distinct cognitive effects, with some enhancing readability or aesthetic appeal more than others. However, the specific visual characteristics of typefaces that contribute to these effects—such as serif styles or x-heights—and their direct impact on readability and beauty have remained largely unexplored. The Cognitive Type Project leverages recent advancements in AI to develop tools capable of mapping these visual characteristics to cognitive outcomes.
+
+### Research Goals
+
+Our research is dedicated to creating publicly accessible datasets and developing foundational models that correlate the detailed "anatomy of type" with eye tracking data collected from individuals as they engage with text. By enhancing existing datasets with a focus on the physical and cognitive effects of typefaces, we aim to shed light on how typography influences reading comprehension and aesthetic perception.
+
+### Classification Systems in Focus
+
+Our project delves into various classification systems, including the PANOSE Classification System and others such as the ATypI Classification, British Standards Classification, DIN 16518, Alessandrini System, Bringhurst's System, and TypeLogic. Each system offers a unique perspective on categorizing typefaces, which is crucial for our analysis of how visual attributes of typefaces correlate with cognitive responses.
+
+By bridging the gap between typographic design and cognitive science, The Cognitive Type Project aspires to revolutionize the way we understand and utilize typography, making it a more effective tool for communication and design in the digital age.
+
 ## Classification of Latin-Typefaces
 
 - **PANOSE Classification System:** The PANOSE Classification System is a comprehensive tool for categorizing typefaces based on ten specific visual attributes. These attributes are designed to capture the most distinctive aspects of a font's appearance, enabling precise matching and identification. Here are the ten attributes used in the PANOSE system:
