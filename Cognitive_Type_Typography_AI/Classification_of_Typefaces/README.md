@@ -1,3 +1,20 @@
+## IBM's Classification of Fonts
+
+IBM's Classification of Fonts, utilized in the OS/2 table of TrueType fonts, divides typefaces into 10 classes, each with specific subclasses to further categorize fonts based on characteristics and historical context. This system includes:
+
+- Class 0: No Classification
+- Class 1: Old-Style Serifs, subdivided into subclasses for various styles like IBM rounded legibility, garalde, Venetian, and more.
+- Class 2: Transitional Serifs, identifying typefaces that bridge old-style and modern serif designs.
+- Class 3: Modern Serifs, focusing on the "modernity" of didones.
+- Class 4: Clarendon Serifs, for industrial typefaces with pronounced serifs.
+- Class 5: Slab Serifs, highlighting mechanistic typefaces.
+- Class 7: Free-Form Serifs, a unique category for fonts like Souvenir.
+- Class 8: Sans Serif, with subclasses for different styles including IBM neo-grotesque gothic and humanist.
+- Class 9: Ornamentals, covering gothic, engraved, and shadowed typefaces.
+- Class 10: Scripts, not distinguishing between manual and script typefaces, and including subclasses for uncial, brush joined, formal joined, and more.
+
+Each class and subclass provides a framework to classify fonts by their visual characteristics, historical origins, and stylistic features.
+
 ## The Alessandrini Classification of Typefaces: Codex 80 
 
 The Alessandrini Classification of Typefaces, introduced in Codex 80 by Jean Alessandrini in 1979, offers a detailed and innovative approach to categorizing typefaces, drawing inspiration from the biological classification of species. This classification is distinctive for its comprehensive framework, including 19 preliminary designations, two orthogonal modifiers, and five additional lists of qualifiers, enriched with creative neologisms and a touch of humor. Here's a detailed breakdown of how this classification works:
