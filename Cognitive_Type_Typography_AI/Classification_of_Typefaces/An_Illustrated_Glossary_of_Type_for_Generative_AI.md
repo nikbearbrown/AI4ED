@@ -15,7 +15,7 @@ Jump to: [A](##a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h)
 - **Ascender**: Part of a lowercase letter that extends above the x-height, found in ‘b’, ‘d’, ‘f’.
 - **Axis**: Imaginary line drawn from top to bottom of a glyph, determining the type classification.
 
-B
+# B
 - **Backslant**: Characters that lean to the left, opposite of italic or oblique characters.
 - **Ball Terminal**: A terminal that forms a circular shape.
 - **Bar**: The horizontal stroke in characters such as 'A', 'H', 'R', 'e', and 'f'.
