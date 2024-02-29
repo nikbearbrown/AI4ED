@@ -3,7 +3,7 @@
 Jump to: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X.
 
 A
-- **Accents**: See Diacritics.
+- **Accents**: Marks added to letters indicating a change in sound value or serving as accents. (See Diacritics.)  
 - **Alternates**: Different shapes or glyphs for the same character in a typeface, e.g., small caps, swash characters, contextual alternates.
 - **Anti-aliasing**: Softens the look of bitmapped type on screen, usually desirable at large point sizes.
 - **Antiqua**: Common name in German and Scandinavian for serif faces, as opposed to "Grotesk" for sans serif.
