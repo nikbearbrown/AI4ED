@@ -1,4 +1,4 @@
-# The Alessandrini Classification of Typefaces: Codex 80 
+## The Alessandrini Classification of Typefaces: Codex 80 
 
 The Alessandrini Classification of Typefaces, introduced in Codex 80 by Jean Alessandrini in 1979, offers a detailed and innovative approach to categorizing typefaces, drawing inspiration from the biological classification of species. This classification is distinctive for its comprehensive framework, including 19 preliminary designations, two orthogonal modifiers, and five additional lists of qualifiers, enriched with creative neologisms and a touch of humor. Here's a detailed breakdown of how this classification works:
 
