@@ -1,5 +1,32 @@
 # Type Classification Systems
 
+By the mid-20th century, the proliferation of fonts and the rise of Sans Serifs alongside traditional Roman types underscored the need for a systematic approach to type classification. Traditional classifications based on historical context, such as "grotesque" or "modern," had become inadequate, failing to accurately describe the diverse and evolving nature of typefaces. This scenario set the stage for the development of new classification systems, which aimed to address the inconsistencies and limitations of earlier methods.
+
+The challenge of classifying typefaces is likened to the difficulties of animal taxonomy, highlighting the nuances in distinguishing between types based on their characteristics. Unlike animals, for which DNA can resolve classification debates, typefaces lack genetic markers, relying instead on the "memetic markers" left by their creators. This analogy emphasizes the dynamic nature of type evolution and the role of historical context in classification systems. While many classification systems incorporate historical elements to contextualize typefaces within broader cultural and scientific developments, they may not always capture the qualitative differences between them. 
+
+The following type classification systems are the most common:
+
+### The Panose-1 Classification
+The Panose-1 Classification system provides a detailed method for describing Latin fonts through a 10-number code, each representing different typographic attributes such as family kind, serif style, and weight. Developed by Ben Bauermeister in 1982 and later integrated into TrueType by Microsoft, it allows for precise identification and matching of fonts by quantifying typographic similarities.
+
+### Vox-ATypI Classification
+The Vox-ATypI Classification, developed by Maximilien Vox in 1954 and adopted by ATypI, organizes typefaces into 11 main categories based on stylistic and historical characteristics. These categories range from Humanist and Garalde to Sans Serif and Script, offering a framework for understanding the evolution of typeface design.
+
+### IBM's Classification of Fonts
+IBM's Classification, used in the OS/2 table of TrueType fonts, categorizes typefaces into 10 classes with specific subclasses based on characteristics and historical context. This includes Old-Style Serifs, Transitional Serifs, Modern Serifs, and more, each with further distinctions to classify fonts by visual characteristics and stylistic features.
+
+### The Alessandrini Classification of Typefaces: Codex 80
+Introduced by Jean Alessandrini in Codex 80, this classification system employs a creative and comprehensive approach to categorize typefaces. It includes 19 preliminary designations, orthogonal modifiers, and additional lists of qualifiers, using a rich lexicon for a deep understanding of typeface diversity.
+
+### The British Standards Classification of Typefaces (BS 2961)
+The British Standards Classification (BS 2961) provides a systematic method for classifying typefaces, focusing on specific attributes such as family kind, serif style, and weight. Though details similar to the Panose-1 system are not as widely documented, it aims to standardize typeface classification within the UK's printing and design industries.
+
+### DIN 16518
+The DIN 16518 classification system, established by the Deutsches Institut für Normung, groups typefaces based on stylistic and structural features, emphasizing historical and stylistic contexts. It includes categories like Venetian Renaissance Antiqua, French Renaissance Antiqua, and more, aiding in the selection process for various typographic projects.
+
+### Bringhurst's System
+Robert Bringhurst's system, detailed in "The Elements of Typographic Style," offers a nuanced and historical approach to classifying typefaces. It emphasizes the historical context and stylistic lineage of typefaces, identifying key periods of type design with defining characteristics, from Humanist to Sans Serif and Script, enhancing the understanding of typeface selection and application.
+
 
 
 1. [The Panose-1 Classification](#the-panose-1-classification)
