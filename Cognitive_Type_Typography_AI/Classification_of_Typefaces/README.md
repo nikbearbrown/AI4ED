@@ -1,3 +1,18 @@
+# Type Classification Systems
+
+
+
+1. [The Panose-1 Classification](#the-panose-1-classification)
+2. [Vox-ATypI Classification](#vox-atypi-classification)
+3. [IBM's Classification of Fonts](#ibms-classification-of-fonts)
+4. [The Alessandrini Classification of Typefaces: Codex 80](#the-alessandrini-classification-of-typefaces-codex-80)
+5. [The British Standards Classification of Typefaces (BS 2961)](#the-british-standards-classification-of-typefaces-bs-2961)
+6. [DIN 16518](#din-16518)
+7. [Bringhurst's System](#bringhursts-system)
+
+
+
+
 ## The Panose-1 Classification
 
 The Panose-1 Classification is a detailed system for describing Latin fonts through a 10-number code, each ranging from 0 to 15, representing various typographic attributes. This method turns a font into a vector in a 10-dimensional space, allowing for the calculation of the distance between two fonts based on their characteristics such as family kind, serif style, weight, proportion, contrast, stroke variation, arm style, letterform, midline, and x-height. Originally developed by Ben Bauermeister around 1982, Panose-1 was integrated into TrueType and Windows 3.1 by Microsoft in 1990, showcasing its utility in font identification and compatibility across digital platforms.
