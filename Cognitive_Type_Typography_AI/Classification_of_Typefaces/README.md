@@ -122,7 +122,7 @@ Alessandrini further refines classification with five lists of qualifiers:
 
 This classification system stands out for its depth, flexibility, and the creative lexicon introduced by Alessandrini. Despite receiving a lukewarm reception from the printing profession, largely due to its departure from tradition and the emphasis on 1970s typefaces, Alessandrini's Codex 80 offers a rich, albeit unconventional, framework for understanding and categorizing the diversity of typefaces beyond the constraints of earlier systems.
 
-## # The British Standards Classification of Typefaces (BS 2961)
+## The British Standards Classification of Typefaces (BS 2961)
 
 The British Standards Classification of Typefaces (BS 2961) is a system developed in the United Kingdom for classifying typefaces systematically. Unlike the more general and stylistic approaches such as the ATypI (Vox-ATypI) classification, the BS 2961 standard provides a structured method, focusing on specific attributes of typefaces to categorize them. While it shares the goal of classifying typefaces to facilitate understanding and selection, the specifics of the BS 2961 system are distinct and tailored to align with British standards for typography.
 
