@@ -1,8 +1,9 @@
 # An Illustrated Glossary of Type for Generative AI
 
-Jump to: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, V, W, X.
+Jump to: [A](##a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J](#j), [K](#k), [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W](#w), [X](#x).
+ 
 
-A
+##A
 - **Accents**: Marks added to letters indicating a change in sound value or serving as accents. (See Diacritics.)  
 - **Alternates**: Different shapes or glyphs for the same character in a typeface, e.g., small caps, swash characters, contextual alternates.
 - **Anti-aliasing**: Softens the look of bitmapped type on screen, usually desirable at large point sizes.
