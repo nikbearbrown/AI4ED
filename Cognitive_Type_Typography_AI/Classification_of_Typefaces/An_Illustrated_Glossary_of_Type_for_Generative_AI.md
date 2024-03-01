@@ -1,6 +1,6 @@
 # An Illustrated Glossary of Type for Generative AI
 
-Typography terms explained with pictures.
+## Typography terms explained with pictures
 
 01. Font/Typeface:
 “A collection of letters, numbers, punctuation, and other symbols used to set text (or related) matter. Although font and typeface are often used interchangeably, font refers to the physical embodiment (whether it's a case of metal pieces or a computer file) while typeface refers to the design (the way it looks). A font is what you use, and a typeface is what you see.”
