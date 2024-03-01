@@ -1,5 +1,114 @@
 # An Illustrated Glossary of Type for Generative AI
 
+Typography terms explained with pictures.
+
+01. Font/Typeface:
+“A collection of letters, numbers, punctuation, and other symbols used to set text (or related) matter. Although font and typeface are often used interchangeably, font refers to the physical embodiment (whether it's a case of metal pieces or a computer file) while typeface refers to the design (the way it looks). A font is what you use, and a typeface is what you see.”
+
+02. Character:
+An individual symbol of the full character set that makes up a typeface; may take the form of a letter, number, punctuation mark, etc.
+
+03. Alternate Character/Glyph:
+A non-standard (sometimes decorative) variation of a character that comes as an extra option with a font file.
+
+04. Serif:
+A short line or stroke attached to or extending from the open ends of a letterform; also refers to the general category of typefaces that have been designed with this feature.
+
+05. Sans-Serif/Sans:
+Literally "without line"; the general category of typefaces (or an individual typeface) designed without serifs.
+
+06. Italic:
+A slanted version of a typeface (slants from left to right); a true italic is uniquely designed, more than a tilted version of the upright (a.k.a. "roman") typeface.
+
+## The Foundation: Positioning & Spacing
+
+07. Baseline:
+The imaginary line on which most letters and other characters sit.
+
+08. Cap Line:
+The imaginary line that marks the upper boundary of capital letters and some lowercase letters' ascenders (see Ascender definition in the next section).
+
+09. X-Height:
+The height of a typeface's lowercase letters (disregarding ascenders and descenders).
+
+10. Tracking/Letter-Spacing:
+The uniform amount of spacing between characters in a complete section of text (sentence, line, paragraph, page, etc.).
+
+11. Kerning:
+The horizontal spacing between two consecutive characters; adjusting the kerning creates the appearance of uniformity and reduces gaps of white space between certain letter combinations.
+
+12. Leading/Line-Spacing:
+The vertical spacing between lines of text (from baseline to baseline).
+
+## The Anatomy of a Letter
+
+13. Stroke:
+A single linear element that forms part of a character; may be straight or curved.
+
+14. Stem:
+The main (usually vertical) stroke of a letterform.
+
+15. Arc of Stem:
+A curved stroke that is continuous with a stem.
+
+16. Foot:
+The part of the stem that rests on the baseline.
+
+17. Descender:
+A piece of a letter that extends below the baseline.
+
+18. Ascender:
+A part of a lowercase letter that rises above the main body of the letter (above the x-height).
+
+19. Joint:
+The point where a stroke connects to a stem.
+
+20. Apex:
+The uppermost connecting point of a letterform where two strokes meet; may be rounded, sharp/pointed, flat/blunt, etc.
+
+21. Vertex:
+The point at the bottom of a character where two strokes meet.
+
+22. Crotch:
+The inside angle where two strokes meet.
+
+23. Arm:
+A horizontal stroke that does not connect to a stem on one or both ends.
+
+24. Leg:
+A short, descending stroke on a letterform.
+
+25. Shoulder:
+A curved stroke extending down from a stem.
+
+26. Bar/Crossbar:
+A horizontal stroke that is enclosed.
+
+27. Cross Stroke:
+A line that extends across/through the stem of a letter.
+
+28. Bowl:
+The closed, round or oval curve of a letter.
+
+29. Counter:
+An enclosed or partially enclosed area of white space within a letter; could be bounded by curves, strokes, or stems.
+
+30. Aperture:
+The opening or partially enclosed negative space created by an open counter.
+
+31. Double-Story:
+A type of letter that has two counters (as opposed to the single-story version, which has only one counter).
+
+32. Terminal:
+The end of any stroke that doesn't include a serif; includes ball terminals (circular in shape) and finials (curved or tapered in shape).
+
+33. Swash:
+A decorative extension or stroke on a letterform; may be part of a letter by design or available either as an additional glyph or as an add-on to the standard character.
+
+34. Ligature:
+Two or more letters that are connected to form one character; primarily decorative (the embellishment that connects the two letters is called a "gadzook").
+
+
 Jump to: [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J](#j), [K](#k), [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u), [V](#v), [W](#w), [X](#x).
  
 
