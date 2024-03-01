@@ -16,6 +16,7 @@ Processing is available for Linux, Mac OS X, and Windows at the following link:
 ### Additional resources
 
 #### Processing
+- [https://processing.org/tutorials/typography](https://processing.org/tutorials/typography)   
 - [Official site](https://processing.org/)
 - [Welcome to Processing](http://hello.processing.org/)
 - [Commands for Processing](https://processing.org/reference/)
