@@ -12,6 +12,7 @@ The terms "typeface" and "font" are often used interchangeably, but they do have
 
 In essence, a typeface is what you see—the consistent visual appearance or style of the characters—while a font is what you use, a file or a set of metal pieces that delivers the typeface to the page or screen.
 
+![Typeface versus Font](https://raw.githubusercontent.com/nikbearbrown/AI4ED/main/Cognitive_Type_Typography_AI/Art/Typeface_v_Font.png)
 
 
 02. Character:
