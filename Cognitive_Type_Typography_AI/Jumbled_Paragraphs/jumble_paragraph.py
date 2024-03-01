@@ -17,11 +17,15 @@ def remove_extra_spaces_around_punctuation(text):
     return re.sub(r'\s+([,.!?;:])\s+', r'\1', text)
 
 def jumble_paragraph(text):
-    text_with_spaces = add_spaces_around_punctuation(text)
-    words = text_with_spaces.split()
-    jumbled_words = [scramble_word(word) for word in words]
-    jumbled_text = ' '.join(jumbled_words)
-    return remove_extra_spaces_around_punctuation(jumbled_text)
+    lines = text.split('\n')
+    jumbled_lines = []
+    for line in lines:
+        text_with_spaces = add_spaces_around_punctuation(line)
+        words = text_with_spaces.split()
+        jumbled_words = [scramble_word(word) for word in words]
+        jumbled_text = ' '.join(jumbled_words)
+        jumbled_lines.append(remove_extra_spaces_around_punctuation(jumbled_text))
+    return '\n'.join(jumbled_lines)
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
@@ -36,10 +40,3 @@ if __name__ == "__main__":
             print(jumbled_text)
     except FileNotFoundError:
         print(f"File {filename} not found.")
-
-
-'''
-
-The Project Gutenberg eBook of Grimms Fairy Tales
-
-'''
