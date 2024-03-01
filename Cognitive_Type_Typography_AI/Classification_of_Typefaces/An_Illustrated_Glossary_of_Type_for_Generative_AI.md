@@ -3,7 +3,16 @@
 ## Typography terms explained with pictures
 
 01. Font/Typeface:
-“A collection of letters, numbers, punctuation, and other symbols used to set text (or related) matter. Although font and typeface are often used interchangeably, font refers to the physical embodiment (whether it's a case of metal pieces or a computer file) while typeface refers to the design (the way it looks). A font is what you use, and a typeface is what you see.”
+   
+The terms "typeface" and "font" are often used interchangeably, but they do have different meanings in the context of typography:
+
+**Typeface**: A typeface refers to the collective design of a set of characters, including letters, numbers, punctuation, and other glyphs. It's the artistic design which you perceive visually; for instance, 'Times New Roman', 'Arial', and 'Baskerville' are all typefaces. It encompasses the aesthetic and style of the characters that make up the type family.
+
+**Font**: A font, on the other hand, refers to the physical embodiment or digital file of a typeface. In traditional printing, a font would be a specific size, weight, and style of a typeface. For example, '12-point Times New Roman Bold' and '10-point Times New Roman Italic' are different fonts within the Times New Roman typeface family. In digital terms, a font is the file that you install on your computer or use in various software applications to display and print characters.
+
+In essence, a typeface is what you see—the consistent visual appearance or style of the characters—while a font is what you use, a file or a set of metal pieces that delivers the typeface to the page or screen.
+
+
 
 02. Character:
 An individual symbol of the full character set that makes up a typeface; may take the form of a letter, number, punctuation mark, etc.
