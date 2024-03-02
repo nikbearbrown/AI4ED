@@ -11,135 +11,69 @@ In developing Abecedarian, we conducted a comprehensive analysis of each contrib
 This paper details the development process of the Abecedarian system, from conceptualization to implementation, and discusses its potential implications for the fields of typography, design, and artificial intelligence. Through Abecedarian, we envision a future where the gap between textual content and its typographic presentation narrows, facilitated by intelligent systems that understand the nuanced language of typefaces as deeply as human designers do.
 
 
-**Tags**
+To streamline and correct the definitions provided, I will organize them under the appropriate categories within the list already structured. This process involves refining definitions for clarity, removing duplicates, and ensuring each term is placed correctly according to its initial letter. Some terms are expanded or clarified to match the concise style of the original list.
 
 ## A
-- **Accents**: Marks added to letters indicating a change in sound value or serving as accents. (See Diacritics.)  
+- **Accents**: Marks added to letters indicating a change in sound value or serving as accents. (See Diacritics.)
+- **Aesthetic and Stylistic Considerations**: Features styles like Classical, Baroque, Pop, etc., reflecting the diverse visual character of typefaces.
+- **Aliennes**: Encompasses all non-Latin scripts, reflecting a Latin-centric view of typography.
+- **Alternate Character/Glyph**: A non-standard (sometimes decorative) variation of a character that comes as an extra option with a font file.
 - **Alternates**: Different shapes or glyphs for the same character in a typeface, e.g., small caps, swash characters, contextual alternates.
 - **Anti-aliasing**: Softens the look of bitmapped type on screen, usually desirable at large point sizes.
 - **Antiqua**: Common name in German and Scandinavian for serif faces, as opposed to "Grotesk" for sans serif.
-- **Aperture**: The partially enclosed, rounded negative space in characters like ‘n’, ‘C’, ‘S’.
-- **Apex**: The point at the top of a character where two strokes meet, e.g., in 'A'.
+- **Aperture**: The opening or partially enclosed negative space created by an open counter in characters like ‘n’, ‘C’, ‘S’.
+- **Apex**: The uppermost connecting point of a letterform where two strokes meet; may be rounded, sharp/pointed, flat/blunt, etc.
 - **Arc**: Any curved contour of a letter.
-- **Arm**: The horizontal stroke not connected to a stem on one or both ends.
-- **Ascender**: Part of a lowercase letter that extends above the x-height, found in ‘b’, ‘d’, ‘f’.
+- **Arc of Stem**: A curved stroke that is continuous with a stem.
+- **Arm**: A horizontal stroke that does not connect to a stem on one or both ends.
+- **Arm Style and Termination of Open Curves**: Looks at the style of the font's arms (straight or not) and the termination of open curves, differentiating between horizontal, wedge, and vertical terminations, with or without serifs.
+- **Ascender**: A part of a lowercase letter that rises above the main body of the letter (above the x-height).
 - **Axis**: Imaginary line drawn from top to bottom of a glyph, determining the type classification.
 
 ## B
 - **Backslant**: Characters that lean to the left, opposite of italic or oblique characters.
 - **Ball Terminal**: A terminal that forms a circular shape.
-- **Bar**: The horizontal stroke in characters such as 'A', 'H', 'R', 'e', and 'f'.
-- **Baseline**: The line upon which letters appear to rest.
+- **Bar/Crossbar**: A horizontal stroke that is enclosed in characters such as 'A', 'H', 'R', 'e', and 'f'.
+- **Baseline**: The imaginary line on which most letters and other characters sit.
 - **Beak**: A triangular, serif-like protrusion at the end of a stroke in some serif type designs.
+- **Blackletter**: Also known as Gothic or Fraktur, these typefaces are based on medieval script and characterized by their dense, dark appearance and ornate detail. They were commonly used in Europe before the Renaissance.
 - **Body**: In digital type, the imaginary area that encompasses each character in a font.
-- **Bowl**: The curved part of a character that encloses circular or curved parts of some letters.
+- **Bowl**: The closed, round or oval curve of a letter.
 
 ## C
 - **Cap height**: Height from the baseline to the top of uppercase letters.
+- **Cap Line**: The imaginary line that marks the upper boundary of capital letters and some lowercase letters' ascenders.
 - **Case sensitive**: Adjustments for punctuation marks to align with uppercase or lowercase letters.
-- **Character**: Any letter, numeral, punctuation mark, or sign included in a font.
-- **Contextual**: Alternate glyphs or ligatures substituted according to the context.
-- **Counter**: The enclosed or partially enclosed negative space of letters like 'd', 'o', 's'.
+- **Character**: An individual symbol of the full character set that makes up a typeface; may take the form of a letter, number, punctuation mark, etc.
+- **Clarendon Serifs**: For industrial typefaces with pronounced serifs.
+- **Claviennes**: Lumps all varieties of Roman typefaces into one category, based on serifs shaped like nail heads.
+- **Contextual Alternates**: Alternate glyphs or ligatures substituted according to the context.
+- **Contrast**: The degree of variation between thick and thin strokes within characters, a feature that can dramatically affect the typeface's character.
+- **Counter**: An enclosed or partially enclosed area of white space within a letter; could be bounded by curves, strokes, or stems.
+- **Cross Stroke**: A line that extends across/through the stem of a letter.
+- **Crotch**: The inside angle where two strokes meet.
 
 ## D
 - **Delta hinting**: Instructions added to a TrueType font for improved display on screen.
-- **Descender**: Part of a lowercase letter that extends below the baseline, found in 'g', 'j', 'p'.
+- **Deltapodes**: Identifies typefaces with delta-shaped (triangular) serifs.
+- **Deltapodes à Congés**: Covers Deltapodes with rounded serifs.
+- **Descender**: A piece of a letter that extends below the baseline.
 - **Diacritics**: Marks added to letters indicating a change in sound value or serving as accents.
+- **Diagones**: Pertains to italics and slanted typefaces,
+
+ with variations like mini-diagones, maxi-diagones, and anti-diagones indicating the degree of slope.
+- **Didone**: Characterized by strong contrast between thick and thin lines, narrow and unbracketed serifs, and a vertical stress in the letters. These typefaces emerged in the late 18th century and are associated with designers like Firmin Didot and Giambattista Bodoni.
+- **Double-Story**: A type of letter that has two counters (as opposed to the single-story version, which has only one counter).
 
 ## E
 - **Ear**: A small stroke projecting from the upper right of the bowl in 'g'.
 - **Embedding**: Includes font information in a digital document for correct text rendering.
+- **Emparectes**: Denotes Egyptian typefaces known for their strictly rectangular serifs, differentiating from Vox's "mechanistic" category.
+- **Emparectes à Congés**: Features Egyptian typefaces with a rounding effect between the downstroke and the serif.
 - **EOT (Embeddable OpenType)**: File format for linking fonts to web pages.
 - **EULA (End User License Agreement)**: Defines terms for font software use.
+- **Exotypes**: Identifies Latin typefaces that simulate non-Latin scripts, often used in advertising.
 
-## F
-- **Family**: Collection of related typefaces sharing common design traits.
-- **Feature-rich**: OpenType fonts with a large number of advanced functionalities.
-- **Fett**: German name for the black weight in a type family.
-- **Figures**: Set of numerals used in typography; can be lining or old-style.
-
-## G
-- **Garalde**: Named after Aldus Manutius' punchcutter Francesco Griffo. These typefaces show an evolution from Humanist designs, with more contrast between thick and thin strokes, and more uniform serifs.
-- **Glyph**: Every character in a typeface is represented by a glyph.
-- **Graphic**: A broad category that includes decorative fonts and those designed for specific purposes or effects.
-
-## H
-- **Hairline**: The thinnest stroke in a typeface design.
-- **Hanging figures**: See Oldstyle figures.
-- **Hinting**: Guidelines added to a font for consistent printing and display at small sizes.
-- **Humanist**: Inspired by the handwriting of Italian Renaissance scribes, characterized by a strong calligraphic influence.
-
-## I
-- **Ink Trap**: Interior corners opened up to trap excess ink.
-- **Inline**: Typefaces with white lines inside character strokes.
-- **Italic**: A slanted type style based on stylized handwriting, usually narrower than its upright counterpart.
-
-## J
-- **Joint**: The spot where a stroke joins a stem.
-
-## K
-- **Kerning**: Adjustment of space between pairs of characters for a visually pleasing result.
-
-## L
-- **Leading**: The vertical space between lines of text, from baseline to baseline.
-- **Leg**: The down-sloping stroke on 'K', 'k', and 'R'.
-- **Ligature**: Two letters combined into one character for aesthetic purposes.
-
-## M
-- **Master size**: The size from which other sizes of
-
- a typeface are generated.
-
-## N
-- **Non-Latin**: Acknowledges the vast world of typefaces designed for scripts other than Latin.
-- **Numeral**: A character representing a number.
-
-## O
-- **Oblique**: A slanted typeface, mechanically sloped and optically adjusted.
-- **Oldstyle figures**: Numbers with varying heights, harmonizing well with lowercase letters.
-- **OpenType**: The most recent font format, supporting a broad range of languages and advanced features.
-
-## P
-- **Petite caps**: Capitals as high as the x-height, allowing for unicase setting.
-- **Pica**: A typographic unit of measure, 1/6th of an inch or 1/72nd of a foot.
-- **Pixel**: A single point in a larger graphic image, crucial for displaying pictures on computer monitors.
-
-## Q
-- **Quad**: A space character that is square-shaped, typically used for indentations or to create space between words in typesetting.
-
-## R
-- **Rasterization**: The process of converting vector information into pixel information for display or printing.
-- **Roman**: The upright style of a typeface, as opposed to italic or oblique.
-
-## S
-- **Sans Serif**: Typefaces without serifs, characterized by clean, simple lines.
-- **Script**: Mimicking handwriting, ranging from formal styles to more casual, contemporary designs.
-- **Serif**: A short line or stroke that projects from the main strokes of a character.
-- **Shoulder**: The curved stroke projecting downward from a stem in 'h', 'm', 'n'.
-- **Slab Serif**: Also known as Egyptian, featuring thick, block-like serifs.
-- **Stroke**: A single linear element that forms part of a character.
-
-## T
-- **Tabular Figures (TF)**: Numbers that share identical character widths, useful for setting columns of numbers.
-- **Tail**: The descender of 'Q' or the short diagonal stroke of 'R'.
-- **Taper**: The thinning of a stroke towards its end.
-- **Transitional**: Marking the transition between Garalde and Didone typefaces, with greater contrast and sharper serifs.
-
-## U
-- **Unicase**: A type design where uppercase and lowercase letters share the same height.
-- **Uppercase**: Capital letters in a typeface, stored in the upper part of a type case in metal type days.
-
-## V
-- **Vector**: A mathematical equation defining the shapes of character outlines in a font, allowing for scalability.
-- **Vertex**: The point at the bottom or top of a character where two strokes meet.
-
-## W
-- **Weight**: The thickness of the strokes in a typeface, affecting its visual impact.
-- **Width**: The space occupied by a character, including its side spaces.
-
-## X
-- **X-height**: The height of lowercase letters, excluding ascenders or descenders, exemplified by 'x'.
-- 
 
 
 
