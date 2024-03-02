@@ -1,4 +1,4 @@
-# Abecedarian - The Classification of Type for the Training of Foundation Models
+# "Abecedarian: Integrating Lexical and Visual Typographic Data for Foundation Model Training
 
 **Abstract:**
 
