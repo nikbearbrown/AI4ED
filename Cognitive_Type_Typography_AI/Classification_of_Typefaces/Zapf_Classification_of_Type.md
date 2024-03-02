@@ -14,6 +14,18 @@ The development of Abecedarian involved a thorough examination of each included 
 
 **Introduction**
 
+Labeling of image data.
+
+1. Reading Meta information in font files.
+2. Generating similar typefaces from labled typefaces
+3. Using Processing to draw typefaces and glyphs with specified features
+4. Human labeling of typefaces using a visual guide.
+5. ll
+
+Typography-MNIST (TMNIST): an MNIST-Style Image Dataset to Categorize Glyphs and Font-Styles
+Nimish Magre, Nicholas Brown
+We present Typography-MNIST (TMNIST), a dataset comprising of 565,292 MNIST-style grayscale images representing 1,812 unique glyphs in varied styles of 1,355 Google-fonts. The glyph-list contains common characters from over 150 of the modern and historical language scripts with symbol sets, and each font-style represents varying subsets of the total unique glyphs. The dataset has been developed as part of the CognitiveType project which aims to develop eye-tracking tools for real-time mapping of type to cognition and to create computational tools that allow for the easy design of typefaces with cognitive properties such as readability. The dataset and scripts to generate MNIST-style images for glyphs in different font styles are freely available at this https URL.
+
 Expanding the abstract to include the integration of data from the Google Fonts library, which boasts over 1,500 open-source and free fonts, adds another layer of depth and utility to the Abecedarian project. This inclusion not only significantly broadens the scope of typographic data available for analysis and application but also enriches the database's potential to serve as a comprehensive resource for the training of foundation models in the "text to type" domain.
 
 Abecedarian now stands enhanced by incorporating data from Google Fonts, a vast repository of over 1,500 open-source and free fonts that offers typographers a wealth of design possibilities akin to renowned typefaces. This expansion enables Abecedarian to cover an even wider array of typographic styles and trends, facilitating a more diverse and inclusive approach to typeface recognition and generation. By integrating Google Fonts, Abecedarian leverages the library's extensive collection to allow typographers and machine learning models alike to request designs similar to popular typefaces, thereby augmenting the database's utility and applicability in real-world scenarios.
