@@ -74,6 +74,107 @@ To streamline and correct the definitions provided, I will organize them under t
 - **EULA (End User License Agreement)**: Defines terms for font software use.
 - **Exotypes**: Identifies Latin typefaces that simulate non-Latin scripts, often used in advertising.
 
+To clean up and categorize the provided list of typographic terms accurately and organize them based on the first letter of each term, let's proceed as follows:
 
+### A
+- **Apex**: The uppermost connecting point of a letterform where two strokes meet; can be rounded, sharp/pointed, flat/blunt.
+- **Arc**: Any curved contour of a letter.
+- **Ascender**: The part of a lowercase letter that extends above the main body of the letter, above the x-height.
+
+### B
+- **Baseline**: The line upon which letters sit.
+- **Bowl**: The rounded part of a character that encloses spaces within letters such as 'd', 'b', 'o', and 'D'.
+- **Blackletter**: Gothic or Fraktur typefaces characterized by dense, intricate letterforms reminiscent of medieval manuscript calligraphy.
+
+### C
+- **Cap height**: The height from the baseline to the top of uppercase letters.
+- **Character**: Any letter, numeral, punctuation mark, or symbol included in a font.
+- **Counter**: The enclosed or partially enclosed negative space within a letter.
+
+### D
+- **Descender**: The part of a letter that extends below the baseline, found in letters such as 'g', 'j', 'p'.
+- **Diacritics**: Marks added to letters indicating a change in sound value or serving as accents.
+
+### E
+- **Ear**: A small stroke projecting from the upper right of the bowl in 'g'.
+- **Embedding**: The inclusion of font information in a digital document for correct text rendering.
+- **Emparectes**: Denotes Egyptian typefaces known for their strictly rectangular serifs.
+- **Emparectes à Congés**: Egyptian typefaces with a rounding effect between the downstroke and the serif.
+- **EOT (Embeddable OpenType)**: File format for embedding fonts in web pages.
+- **EULA (End User License Agreement)**: Defines the terms under which font software can be used.
+- **Exotypes**: Latin typefaces that simulate non-Latin scripts, often for advertising purposes.
+
+### F
+- **Family**: A collection of related typefaces sharing common design traits.
+- **Feature-rich**: OpenType fonts with a large number of advanced functionalities.
+- **Figures**: Numerals used in typography; can be lining or old-style.
+- **Font**: The physical embodiment or digital file of a typeface, specifying size, weight, and style.
+
+### G
+- **Garalde**: Typefaces named after Aldus Manutius' punchcutter Francesco Griffo, showing evolution from Humanist designs with more contrast between thick and thin strokes.
+
+### H
+- **Hairline**: The thinnest stroke found in a typeface's design.
+- **Humanist**: Typefaces inspired by the handwriting of Italian Renaissance scribes, characterized by varied stroke weights and pen-like serifs.
+
+### I
+- **Inline**: Typefaces with white lines inside the strokes of characters.
+- **Italic**: A slanted type style based on stylized handwriting, often more narrow than its upright counterpart.
+
+### J
+- **Joint**: The point where a stroke connects to a stem.
+
+### K
+- **Kerning**: The adjustment of space between pairs of characters to achieve a visually pleasing result.
+
+### L
+- **Leading (Line-Spacing)**: The vertical spacing between lines of text, measured from baseline to baseline.
+- **Leg**: A short, descending stroke found in characters.
+
+### M
+- **Master size**: The original size from which variations of a typeface are derived.
+
+### N
+- **Non-Latin**: Refers to typefaces designed for scripts other than Latin, highlighting the global diversity of typography.
+
+### O
+- **Oblique**: A slanted typeface that is mechanically sloped and optically adjusted.
+- **Oldstyle figures**: Numerals with varying heights that harmonize well with lowercase letters.
+
+### P
+- **Pixel**: The smallest unit of a digital image or graphic that can be displayed and represented on a digital display device.
+- **Proportion**: Relates to the width and height of characters, affecting the overall appearance and readability of the typeface.
+
+### Q
+- **Quad**: A space character that is square-shaped, used for creating space between words or for indentation.
+
+### R
+- **Rasterization**: The process of converting vector shapes in a font into pixels or dots for display on screen or for printing.
+
+### S
+- **Sans Serif**: Typefaces without serifs, characterized by clean, simple lines and straightforward shapes.
+- **Serif**: A short line or stroke regularly attached to the end of a larger stroke in a letter or symbol.
+- **Stroke**: A straight or curved line that forms part of a letter or character.
+
+### T
+- **Tabular Figures (TF)**: Numerals that share identical character widths, allowing for uniform vertical alignment in tables and lists.
+- **Terminal**: The
+
+ end of a stroke that does not include a serif.
+- **Typeface**: The design of a set of characters including letters, numbers, and symbols, encompassing the style and appearance of their printed form.
+
+### U
+- **Uppercase**: Capital letters of the alphabet.
+
+### V
+- **Vertex**: The point at the bottom or top of a character where two strokes meet.
+
+### W
+- **Weight**: The thickness of the strokes that make up letters and characters in a typeface.
+
+### X
+- **X-height**: The height of the lowercase letters, excluding ascenders and descenders, typically exemplified by the letter 'x'.
+
+This categorization addresses the definitions and placements of typographic terms based on the first letter of each term, aiming for a comprehensive and accessible reference.
 
 
