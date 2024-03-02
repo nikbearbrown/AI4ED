@@ -1,4 +1,4 @@
-# "Abecedarian: Integrating Lexical and Visual Typographic Data for Foundation Model Training
+# Abecedarian: Integrating Lexical and Visual Typographic Data for Foundation Model Training
 
 **Abstract:**
 
