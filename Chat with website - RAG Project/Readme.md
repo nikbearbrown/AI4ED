@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
    ```
 4. Initialise environment variables:
 
-   Create .env file in the root directory and initialize the keys for OpenAI and Pinecone as shown in dummyenv file
+   Create .env file in the root directory and initialize the keys for OpenAI and Pinecone as shown in dummy_env file
 
 4. Run the Streamlit Application:
    ```bash
