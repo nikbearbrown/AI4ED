@@ -1,0 +1,7 @@
+youtube-transcript-api==0.6.2
+python-dotenv
+streamlit
+pytube
+SpeechRecognition
+pydub
+openai==0.28
